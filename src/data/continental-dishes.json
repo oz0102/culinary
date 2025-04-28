@@ -1,0 +1,318 @@
+{
+  "continentalDishes": [
+    {
+      "id": "beef-bourguignon",
+      "name": "Beef Bourguignon",
+      "category": "continental",
+      "subcategory": "french",
+      "description": "A classic French beef stew braised in red wine with mushrooms, pearl onions, and bacon. This hearty dish originated as a peasant meal but has evolved into a sophisticated staple of French cuisine.",
+      "origin": "France (Burgundy region)",
+      "ingredients": [
+        "Beef chuck or brisket",
+        "Red wine (traditionally Burgundy)",
+        "Bacon or pancetta",
+        "Pearl onions",
+        "Mushrooms",
+        "Carrots",
+        "Garlic",
+        "Bouquet garni (thyme, bay leaf, parsley)",
+        "Beef stock"
+      ],
+      "platingTechniques": [
+        {
+          "id": "bathing-technique",
+          "name": "Bathing Technique",
+          "description": "This technique presents the beef partially submerged in the rich wine sauce, creating a luxurious and appetizing presentation.",
+          "steps": [
+            "Select a wide, shallow bowl with enough depth for the sauce.",
+            "Pour a base layer of the wine sauce into the bowl.",
+            "Place a large piece of tender beef in the center, partially submerged.",
+            "Arrange mushrooms, pearl onions, and bacon around the beef.",
+            "Add a few more spoonfuls of sauce over the top of the beef.",
+            "Garnish with fresh thyme sprigs and a light dusting of parsley."
+          ],
+          "tips": [
+            "Ensure the sauce has the right consistency - not too thick or thin",
+            "The beef should be fork-tender but still hold its shape",
+            "Consider the bowl color - white or light-colored bowls showcase the rich burgundy sauce"
+          ],
+          "imageSrc": "/images/bathing-technique.jpg",
+          "techniqueType": "bathing"
+        },
+        {
+          "id": "organic-materials",
+          "name": "Organic Materials Presentation",
+          "description": "Serving Beef Bourguignon on a wooden board or in a cast iron vessel adds rustic charm and authenticity to this traditional dish.",
+          "steps": [
+            "Select a small cast iron cocotte or wooden serving board.",
+            "If using a board, create a shallow well for the sauce.",
+            "Place the beef bourguignon in the center of the vessel.",
+            "Arrange vegetables artistically around the meat.",
+            "Add a small bunch of fresh herbs on the side.",
+            "Serve with a separate small wooden bowl of sauce for adding tableside."
+          ],
+          "tips": [
+            "The natural texture of wood or cast iron adds visual interest",
+            "Warm the serving vessel before plating to keep the dish hot",
+            "Consider adding a small garnish of flaky salt on the rim"
+          ],
+          "imageSrc": "/images/organic-technique.jpg",
+          "techniqueType": "organic"
+        }
+      ],
+      "relatedDishes": ["coq-au-vin", "boeuf-a-la-mode", "daube-provencale"],
+      "imageSrc": "/images/dish-detail-placeholder.jpg"
+    },
+    {
+      "id": "risotto-milanese",
+      "name": "Risotto Milanese",
+      "category": "continental",
+      "subcategory": "italian",
+      "description": "A creamy Italian rice dish from Milan, distinguished by its vibrant yellow color from saffron. Traditionally served with osso buco, it's known for its rich, velvety texture and delicate flavor.",
+      "origin": "Italy (Milan)",
+      "ingredients": [
+        "Arborio or Carnaroli rice",
+        "Saffron threads",
+        "White wine",
+        "Onions",
+        "Butter",
+        "Parmesan cheese",
+        "Chicken or vegetable stock",
+        "Olive oil"
+      ],
+      "platingTechniques": [
+        {
+          "id": "freeform-technique",
+          "name": "Free-form Technique",
+          "description": "This artistic approach creates a modern, abstract presentation of risotto with intentional swooshes and artistic elements.",
+          "steps": [
+            "Select a large, flat plate with ample negative space.",
+            "Create a swoosh of parmesan cream on one side of the plate.",
+            "Place a quenelle or small mound of risotto off-center.",
+            "Add dots of saffron oil or herb oil around the plate.",
+            "Place thin shavings of Parmesan at strategic points.",
+            "Finish with micro herbs and a few saffron threads."
+          ],
+          "tips": [
+            "The risotto should be al dente but creamy enough to hold its shape",
+            "Use the back of a warm spoon to create smooth swooshes",
+            "Consider the golden color of the risotto as a focal point"
+          ],
+          "imageSrc": "/images/freeform-technique.jpg",
+          "techniqueType": "freeform"
+        },
+        {
+          "id": "super-bowl",
+          "name": "Super Bowl Technique",
+          "description": "This elegant bowl presentation showcases the creamy texture of risotto while allowing for artistic garnishes and height.",
+          "steps": [
+            "Select a shallow, wide-rimmed bowl in white or a neutral color.",
+            "Spoon the risotto into the center of the bowl, creating a slight depression in the middle.",
+            "Place a piece of gold leaf or a few saffron threads in the center.",
+            "Add shaved truffles or Parmesan in a small pile on top.",
+            "Drizzle a small amount of herb oil or truffle oil around the edges.",
+            "Garnish with micro herbs or edible flowers for height and color."
+          ],
+          "tips": [
+            "The bowl should be warm to maintain the risotto's temperature",
+            "The risotto should spread slightly but not touch the rim",
+            "Consider adding a textural element like a Parmesan crisp"
+          ],
+          "imageSrc": "/images/superbowl-technique.jpg",
+          "techniqueType": "superbowl"
+        }
+      ],
+      "relatedDishes": ["risotto-ai-funghi", "arancini", "osso-buco"],
+      "imageSrc": "/images/placeholder-1.jpg"
+    },
+    {
+      "id": "paella",
+      "name": "Paella",
+      "category": "continental",
+      "subcategory": "spanish",
+      "description": "A vibrant Spanish rice dish originating from Valencia, traditionally cooked in a wide, shallow pan over an open fire. It features saffron-infused rice with a variety of meats, seafood, and vegetables.",
+      "origin": "Spain (Valencia)",
+      "ingredients": [
+        "Short-grain rice (Bomba or Calasparra)",
+        "Saffron threads",
+        "Olive oil",
+        "Chicken, rabbit, or duck",
+        "Seafood (prawns, mussels, clams)",
+        "Bell peppers",
+        "Tomatoes",
+        "Peas",
+        "Paprika",
+        "Garlic"
+      ],
+      "platingTechniques": [
+        {
+          "id": "landscape-arrangement",
+          "name": "Landscape Technique",
+          "description": "This technique arranges paella components in a linear, horizontal presentation that showcases the variety of ingredients and colors.",
+          "steps": [
+            "Select a rectangular or oval plate with ample space.",
+            "Create a bed of saffron rice in a thin, elongated shape across the plate.",
+            "Arrange seafood and meat pieces in a deliberate pattern along the rice.",
+            "Place vegetables strategically for color contrast.",
+            "Add lemon wedges at one end of the arrangement.",
+            "Garnish with fresh herbs and a light drizzle of olive oil."
+          ],
+          "tips": [
+            "Ensure each component is visible and identifiable",
+            "Create a natural flow from one end of the plate to the other",
+            "Consider the color progression and balance"
+          ],
+          "imageSrc": "/images/landscape-technique.jpg",
+          "techniqueType": "landscape"
+        },
+        {
+          "id": "organic-materials",
+          "name": "Traditional Pan Presentation",
+          "description": "Serving paella in its traditional cooking vessel (paellera) creates an authentic, rustic presentation that honors the dish's heritage.",
+          "steps": [
+            "Use a traditional paella pan or a small individual serving pan.",
+            "Allow the rice to develop the prized socarrat (crispy bottom layer).",
+            "Arrange seafood and meat pieces decoratively on top of the rice.",
+            "Place lemon wedges around the edge of the pan.",
+            "Garnish with fresh herbs and a drizzle of high-quality olive oil.",
+            "Serve the pan on a wooden board or heat-resistant mat."
+          ],
+          "tips": [
+            "The pan itself becomes part of the presentation",
+            "The circular shape creates a natural focal point",
+            "Consider adding height with vertical elements like prawns or mussels"
+          ],
+          "imageSrc": "/images/organic-technique.jpg",
+          "techniqueType": "organic"
+        }
+      ],
+      "relatedDishes": ["fideuà", "arroz-negro", "arroz-con-pollo"],
+      "imageSrc": "/images/placeholder-2.jpg"
+    },
+    {
+      "id": "coq-au-vin",
+      "name": "Coq au Vin",
+      "category": "continental",
+      "subcategory": "french",
+      "description": "A classic French dish of chicken braised with wine, lardons, mushrooms, and garlic. Traditionally made with rooster, modern versions typically use chicken pieces slowly simmered in red wine.",
+      "origin": "France (Burgundy)",
+      "ingredients": [
+        "Chicken pieces",
+        "Red wine (traditionally Burgundy)",
+        "Bacon or lardons",
+        "Pearl onions",
+        "Mushrooms",
+        "Garlic",
+        "Bouquet garni (thyme, bay leaf, parsley)",
+        "Butter",
+        "Flour"
+      ],
+      "platingTechniques": [
+        {
+          "id": "bathing-technique",
+          "name": "Bathing Technique",
+          "description": "This technique presents the chicken partially submerged in the rich wine sauce, creating a luxurious and appetizing presentation.",
+          "steps": [
+            "Select a wide, shallow bowl with enough depth for the sauce.",
+            "Pour a base layer of the wine sauce into the bowl.",
+            "Place a chicken piece (preferably thigh or breast) in the center, partially submerged.",
+            "Arrange mushrooms, pearl onions, and lardons around the chicken.",
+            "Add a few more spoonfuls of sauce over the top of the chicken.",
+            "Garnish with fresh thyme sprigs and a light dusting of parsley."
+          ],
+          "tips": [
+            "The sauce should be reduced to the right consistency - not too thin",
+            "The chicken skin should remain crispy on top if possible",
+            "Consider the color contrast between the dark sauce and garnishes"
+          ],
+          "imageSrc": "/images/bathing-technique.jpg",
+          "techniqueType": "bathing"
+        },
+        {
+          "id": "nordic-look",
+          "name": "Nordic Look",
+          "description": "This minimalist technique presents Coq au Vin with clean lines, natural elements, and a focus on the dish's natural beauty.",
+          "steps": [
+            "Select a simple, preferably white plate with clean lines.",
+            "Place a single, perfectly cooked chicken piece off-center on the plate.",
+            "Add three mushrooms and three pearl onions in a precise arrangement.",
+            "Create a small pool of sauce in one corner of the plate.",
+            "Add a single sprig of thyme and a small piece of bacon for contrast.",
+            "Leave ample negative space to highlight the components."
+          ],
+          "tips": [
+            "Focus on perfect execution of each element",
+            "Use negative space intentionally",
+            "Consider the geometric relationship between components"
+          ],
+          "imageSrc": "/images/placeholder-1.jpg",
+          "techniqueType": "nordic"
+        }
+      ],
+      "relatedDishes": ["beef-bourguignon", "poulet-chasseur", "chicken-fricassee"],
+      "imageSrc": "/images/placeholder-3.jpg"
+    },
+    {
+      "id": "beef-wellington",
+      "name": "Beef Wellington",
+      "category": "continental",
+      "subcategory": "british",
+      "description": "A luxurious dish consisting of beef tenderloin coated with pâté and duxelles (mushroom paste), wrapped in puff pastry, and baked. Named after the Duke of Wellington, it's a showstopping centerpiece for special occasions.",
+      "origin": "United Kingdom",
+      "ingredients": [
+        "Beef tenderloin",
+        "Puff pastry",
+        "Mushroom duxelles",
+        "Pâté (often foie gras or chicken liver)",
+        "Prosciutto or Parma ham",
+        "Egg wash",
+        "Dijon mustard",
+        "Herbs (thyme, rosemary)"
+      ],
+      "platingTechniques": [
+        {
+          "id": "hide-and-seek",
+          "name": "Hide and Seek Technique",
+          "description": "This technique creates drama by presenting the Wellington whole, then slicing it tableside to reveal the perfectly cooked interior layers.",
+          "steps": [
+            "Present the whole Beef Wellington on a wooden board or serving platter.",
+            "Garnish the board with fresh herbs and edible flowers.",
+            "Slice the Wellington tableside to reveal the layers and pink center.",
+            "Transfer a slice to a warmed plate with a swoosh of sauce.",
+            "Add small accompaniments like roasted vegetables around the slice.",
+            "Finish with a light drizzle of jus or sauce."
+          ],
+          "tips": [
+            "The reveal of the interior is the key moment - ensure perfect doneness",
+            "Consider the cross-section as the focal point of the presentation",
+            "Allow the Wellington to rest properly before slicing to prevent juices from running"
+          ],
+          "imageSrc": "/images/hideandseek-technique.jpg",
+          "techniqueType": "hideandseek"
+        },
+        {
+          "id": "landscape-arrangement",
+          "name": "Landscape Technique",
+          "description": "This technique arranges sliced Beef Wellington in a linear, horizontal presentation that showcases the layers and textures.",
+          "steps": [
+            "Select a rectangular or oval plate with ample space.",
+            "Slice the Wellington into even pieces, showing the perfect layers.",
+            "Arrange 2-3 slices in a slightly overlapping row across the plate.",
+            "Create a line of sauce parallel to the Wellington slices.",
+            "Add small piles of accompaniments at strategic points along the arrangement.",
+            "Garnish with micro herbs and edible flowers for height and color."
+          ],
+          "tips": [
+            "The slices should be even and show all layers clearly",
+            "Create a natural flow from one end of the plate to the other",
+            "Consider the color contrast between the pink beef, golden pastry, and dark mushroom layer"
+          ],
+          "imageSrc": "/images/landscape-technique.jpg",
+          "techniqueType": "landscape"
+        }
+      ],
+      "relatedDishes": ["chateaubriand", "beef-en-croute", "salmon-en-croute"],
+      "imageSrc": "/images/placeholder-2.jpg"
+    }
+  ]
+}

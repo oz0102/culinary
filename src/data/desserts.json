@@ -1,0 +1,306 @@
+{
+  "desserts": [
+    {
+      "id": "tiramisu",
+      "name": "Tiramisu",
+      "category": "dessert",
+      "subcategory": "italian",
+      "description": "A classic Italian coffee-flavored dessert made of ladyfingers dipped in coffee, layered with a whipped mixture of eggs, sugar, and mascarpone cheese, flavored with cocoa. The name literally means 'pick me up' or 'cheer me up'.",
+      "origin": "Italy (Veneto region)",
+      "ingredients": [
+        "Ladyfingers (Savoiardi)",
+        "Mascarpone cheese",
+        "Eggs",
+        "Sugar",
+        "Coffee",
+        "Cocoa powder",
+        "Marsala wine or rum (optional)"
+      ],
+      "platingTechniques": [
+        {
+          "id": "freeform-technique",
+          "name": "Free-form Technique",
+          "description": "This artistic approach creates a deconstructed tiramisu with intentional swooshes, dusting patterns, and artistic elements.",
+          "steps": [
+            "Select a large, flat plate with ample negative space.",
+            "Create a swoosh of mascarpone cream on one side of the plate.",
+            "Place broken pieces of coffee-soaked ladyfingers in an artistic arrangement.",
+            "Add dots or small quenelles of mascarpone at strategic points.",
+            "Create patterns with cocoa powder using a stencil or free-hand dusting.",
+            "Finish with chocolate shavings, coffee beans, or edible flowers."
+          ],
+          "tips": [
+            "Use a cold plate to keep the mascarpone cream firm",
+            "Create contrast between the white cream and dark cocoa",
+            "Consider using a squeeze bottle for precise cream placement"
+          ],
+          "imageSrc": "/images/freeform-technique.jpg",
+          "techniqueType": "freeform"
+        },
+        {
+          "id": "hide-and-seek",
+          "name": "Hide and Seek Technique",
+          "description": "This technique showcases the layered nature of tiramisu, revealing the distinct coffee, mascarpone, and cocoa layers when served.",
+          "steps": [
+            "Use a clear glass or jar to showcase the distinct layers.",
+            "Start with a layer of ladyfingers soaked in coffee at the bottom.",
+            "Add a precise layer of mascarpone cream.",
+            "Continue alternating layers, ensuring clean, visible distinctions.",
+            "Finish with a perfect dusting of cocoa powder on top.",
+            "Garnish with a single chocolate-covered coffee bean or mint leaf."
+          ],
+          "tips": [
+            "Use a piping bag for clean mascarpone layers",
+            "Chill the dessert thoroughly to ensure layers remain distinct",
+            "The transparency of the vessel is key to showcasing the layers"
+          ],
+          "imageSrc": "/images/hideandseek-technique.jpg",
+          "techniqueType": "hideandseek"
+        }
+      ],
+      "relatedDishes": ["panna-cotta", "zabaglione", "affogato"],
+      "imageSrc": "/images/dish-detail-placeholder.jpg"
+    },
+    {
+      "id": "creme-brulee",
+      "name": "Crème Brûlée",
+      "category": "dessert",
+      "subcategory": "french",
+      "description": "A rich custard base topped with a layer of hardened caramelized sugar. Known for its contrasting textures of smooth custard and crisp caramel top, it's a classic French dessert that has become popular worldwide.",
+      "origin": "France",
+      "ingredients": [
+        "Heavy cream",
+        "Egg yolks",
+        "Vanilla bean or extract",
+        "Sugar",
+        "Salt"
+      ],
+      "platingTechniques": [
+        {
+          "id": "nordic-look",
+          "name": "Nordic Look",
+          "description": "This minimalist technique presents crème brûlée with clean lines, natural elements, and a focus on the dessert's natural beauty.",
+          "steps": [
+            "Serve the crème brûlée in its traditional ramekin on a simple, preferably white plate.",
+            "Place the ramekin slightly off-center.",
+            "Add a small quenelle of whipped cream or crème fraîche on the plate.",
+            "Place 2-3 fresh berries or a single edible flower for color contrast.",
+            "Add a thin, crisp tuile or shortbread cookie standing vertically.",
+            "Finish with a light dusting of powdered sugar on the plate, not on the brûlée."
+          ],
+          "tips": [
+            "The caramelized top should be perfectly even and unbroken",
+            "Use negative space intentionally",
+            "Consider the geometric relationship between elements"
+          ],
+          "imageSrc": "/images/placeholder-1.jpg",
+          "techniqueType": "nordic"
+        },
+        {
+          "id": "futuristic",
+          "name": "Futuristic Technique",
+          "description": "This contemporary approach presents crème brûlée in unexpected vessels with modern elements and techniques.",
+          "steps": [
+            "Use a non-traditional vessel like a flat slate plate or shallow glass dish.",
+            "Create a perfect cylinder of crème brûlée using a ring mold.",
+            "Caramelize the top with precision, perhaps in a geometric pattern.",
+            "Add elements of molecular gastronomy, such as vanilla foam or fruit caviar.",
+            "Create a sugar spiral or cage as a dramatic garnish.",
+            "Use a food-safe pipette filled with complementary sauce or liqueur."
+          ],
+          "tips": [
+            "Focus on precision and unexpected elements",
+            "Consider using modern tools like culinary torches for tableside finishing",
+            "Create contrast between traditional flavors and modern presentation"
+          ],
+          "imageSrc": "/images/placeholder-2.jpg",
+          "techniqueType": "futuristic"
+        }
+      ],
+      "relatedDishes": ["flan", "custard", "pot-de-creme"],
+      "imageSrc": "/images/placeholder-3.jpg"
+    },
+    {
+      "id": "apple-tart",
+      "name": "Apple Tart",
+      "category": "dessert",
+      "subcategory": "french",
+      "description": "A classic French dessert featuring thinly sliced apples arranged in a pattern on a buttery pastry base, often glazed with apricot jam. The tarte aux pommes is known for its elegant simplicity and beautiful presentation.",
+      "origin": "France",
+      "ingredients": [
+        "Puff pastry or shortcrust pastry",
+        "Apples (typically Granny Smith or Golden Delicious)",
+        "Butter",
+        "Sugar",
+        "Cinnamon",
+        "Apricot jam or glaze",
+        "Lemon juice"
+      ],
+      "platingTechniques": [
+        {
+          "id": "landscape-arrangement",
+          "name": "Landscape Technique",
+          "description": "This technique arranges apple tart with complementary elements in a linear, horizontal presentation that creates a natural flow across the plate.",
+          "steps": [
+            "Select a rectangular or oval plate with ample space.",
+            "Place a slice of apple tart off-center on the plate.",
+            "Create a line of caramel sauce or crème anglaise parallel to the tart.",
+            "Add small quenelles of vanilla ice cream or crème fraîche at one end.",
+            "Place thin apple chips or tuile cookies for height and texture.",
+            "Finish with fresh mint leaves or edible flowers at strategic points."
+          ],
+          "tips": [
+            "Ensure the tart is at room temperature for best flavor",
+            "Create a natural flow from one end of the plate to the other",
+            "Consider the color contrast between the golden tart, white cream, and sauce"
+          ],
+          "imageSrc": "/images/landscape-technique.jpg",
+          "techniqueType": "landscape"
+        },
+        {
+          "id": "super-bowl",
+          "name": "À la Mode Bowl Presentation",
+          "description": "This technique presents apple tart in a bowl with ice cream and sauce, creating a comforting yet elegant dessert experience.",
+          "steps": [
+            "Select a wide, shallow bowl in white or a neutral color.",
+            "Place a warm slice of apple tart in the center of the bowl.",
+            "Add a scoop of vanilla ice cream or gelato beside the tart.",
+            "Pour warm caramel sauce or calvados sauce around the tart and partially over it.",
+            "Sprinkle crushed nuts or streusel around the edges.",
+            "Garnish with a mint sprig or edible flower for color contrast."
+          ],
+          "tips": [
+            "The temperature contrast between warm tart and cold ice cream is key",
+            "The bowl should be room temperature, not chilled",
+            "Consider adding height with a thin caramel decoration or tuile"
+          ],
+          "imageSrc": "/images/superbowl-technique.jpg",
+          "techniqueType": "superbowl"
+        }
+      ],
+      "relatedDishes": ["tarte-tatin", "apple-galette", "apple-strudel"],
+      "imageSrc": "/images/placeholder-1.jpg"
+    },
+    {
+      "id": "chocolate-fondant",
+      "name": "Chocolate Fondant",
+      "category": "dessert",
+      "subcategory": "french",
+      "description": "Also known as chocolate lava cake, this indulgent dessert features a warm chocolate cake with a molten chocolate center that flows out when cut into. It's a dramatic dessert that balances cake-like exterior with flowing interior.",
+      "origin": "France/United States (disputed)",
+      "ingredients": [
+        "Dark chocolate",
+        "Butter",
+        "Eggs",
+        "Sugar",
+        "Flour",
+        "Vanilla extract",
+        "Salt"
+      ],
+      "platingTechniques": [
+        {
+          "id": "hide-and-seek",
+          "name": "Revealing Center Technique",
+          "description": "This technique creates drama by presenting the intact fondant, then cutting it open tableside to reveal the flowing chocolate center.",
+          "steps": [
+            "Place the warm fondant in the center of a warmed plate.",
+            "Dust the top with powdered sugar, perhaps using a stencil for a pattern.",
+            "Add a quenelle of ice cream or whipped cream to one side.",
+            "Create a swoosh or dots of fruit coulis or sauce on the opposite side.",
+            "At service, cut into the fondant to reveal the flowing center.",
+            "Finish with fresh berries or mint for color contrast."
+          ],
+          "tips": [
+            "Timing is crucial - the fondant must be served immediately",
+            "The reveal of the flowing center is the key moment",
+            "Consider using a contrasting plate color to highlight the chocolate"
+          ],
+          "imageSrc": "/images/hideandseek-technique.jpg",
+          "techniqueType": "hideandseek"
+        },
+        {
+          "id": "freeform-technique",
+          "name": "Artistic Sauce Patterns",
+          "description": "This technique uses the flowing chocolate center as an element in an artistic plate design, creating a dynamic and visually striking presentation.",
+          "steps": [
+            "Place the fondant off-center on a large white plate.",
+            "Cut into the fondant to allow the center to begin flowing.",
+            "Use the flowing chocolate as part of an artistic pattern.",
+            "Add dots, swooshes, or spirals of complementary sauces (raspberry, caramel).",
+            "Place small elements like berries, chocolate decorations, or tuiles at strategic points.",
+            "Finish with gold leaf or edible flowers for luxury and color."
+          ],
+          "tips": [
+            "The flowing chocolate becomes part of the artistic composition",
+            "Use squeeze bottles for precise sauce application",
+            "Consider the plate as a canvas with the fondant as the focal point"
+          ],
+          "imageSrc": "/images/freeform-technique.jpg",
+          "techniqueType": "freeform"
+        }
+      ],
+      "relatedDishes": ["souffle", "molten-cake", "chocolate-nemesis"],
+      "imageSrc": "/images/placeholder-2.jpg"
+    },
+    {
+      "id": "panna-cotta",
+      "name": "Panna Cotta",
+      "category": "dessert",
+      "subcategory": "italian",
+      "description": "A silky, smooth Italian dessert made of sweetened cream set with gelatin. Its name literally means 'cooked cream,' and it's known for its delicate wobble and melt-in-the-mouth texture.",
+      "origin": "Italy (Piedmont region)",
+      "ingredients": [
+        "Heavy cream",
+        "Milk",
+        "Sugar",
+        "Vanilla bean or extract",
+        "Gelatin",
+        "Fruit coulis or sauce (optional)"
+      ],
+      "platingTechniques": [
+        {
+          "id": "bathing-technique",
+          "name": "Fruit Sauce Bath",
+          "description": "This technique presents panna cotta partially submerged in a vibrant fruit sauce or coulis, creating a beautiful color contrast.",
+          "steps": [
+            "Select a shallow bowl or rimmed plate.",
+            "Pour a pool of fruit coulis or sauce into the center.",
+            "Unmold the panna cotta directly into the center of the sauce.",
+            "Add fresh berries or fruit pieces around the panna cotta.",
+            "Garnish with mint leaves, edible flowers, or herb sprigs.",
+            "Optionally add a tuile cookie or chocolate decoration for height."
+          ],
+          "tips": [
+            "The panna cotta should have the perfect wobble - firm enough to hold shape but tender",
+            "Choose a sauce color that contrasts with the white panna cotta",
+            "Consider the depth of the sauce - it should partially submerge the base"
+          ],
+          "imageSrc": "/images/bathing-technique.jpg",
+          "techniqueType": "bathing"
+        },
+        {
+          "id": "nordic-look",
+          "name": "Nordic Minimalist Presentation",
+          "description": "This clean, minimalist approach focuses on the perfect texture and shape of the panna cotta with restrained, precise garnishes.",
+          "steps": [
+            "Select a simple, preferably white plate with clean lines.",
+            "Unmold the panna cotta slightly off-center on the plate.",
+            "Add three small dots of fruit gel or coulis in a precise line.",
+            "Place a single perfect berry or piece of fruit for color.",
+            "Add a small edible flower or herb leaf for a touch of green.",
+            "Optionally dust a small area with powdered sugar or spice."
+          ],
+          "tips": [
+            "The panna cotta must be perfectly unmolded with no imperfections",
+            "Use negative space intentionally",
+            "Consider the geometric relationship between elements"
+          ],
+          "imageSrc": "/images/placeholder-3.jpg",
+          "techniqueType": "nordic"
+        }
+      ],
+      "relatedDishes": ["bavarian-cream", "blancmange", "buttermilk-pudding"],
+      "imageSrc": "/images/placeholder-1.jpg"
+    }
+  ]
+}

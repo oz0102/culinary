@@ -1,0 +1,333 @@
+{
+  "nigerianDishes": [
+    {
+      "id": "jollof-rice",
+      "name": "Jollof Rice",
+      "category": "nigerian",
+      "subcategory": "rice",
+      "description": "A flavorful West African rice dish cooked with tomatoes, peppers, and aromatic spices. It's made with long-grain rice, tomatoes, onions, peppers, and various spices. The dish is often served at parties and special occasions.",
+      "origin": "Nigeria (West Africa)",
+      "ingredients": [
+        "Long grain rice",
+        "Tomatoes and tomato paste",
+        "Red bell peppers",
+        "Scotch bonnet peppers",
+        "Onions",
+        "Vegetable oil",
+        "Curry powder, thyme, bay leaves",
+        "Chicken or vegetable stock"
+      ],
+      "platingTechniques": [
+        {
+          "id": "classic-elevation",
+          "name": "Classic Elevation",
+          "description": "This technique creates height by molding the jollof rice into a cylindrical shape, topped with protein, and surrounded by complementary elements.",
+          "steps": [
+            "Use a ring mold to create a cylindrical shape with the jollof rice in the center of the plate.",
+            "Carefully remove the mold, ensuring the rice maintains its shape.",
+            "Place a piece of grilled chicken or protein on top of the rice.",
+            "Arrange fried plantains in a fan pattern on one side of the plate.",
+            "Add a small amount of sauce around the base of the rice for color contrast.",
+            "Garnish with micro greens or herb sprigs for freshness and height."
+          ],
+          "tips": [
+            "Ensure rice is slightly sticky to hold its shape",
+            "Use a warm plate to keep food hot longer",
+            "Consider color contrast between rice, protein, and garnish"
+          ],
+          "imageSrc": "/images/technique1-placeholder.jpg",
+          "techniqueType": "landscape"
+        },
+        {
+          "id": "deconstructed",
+          "name": "Deconstructed",
+          "description": "This modern approach separates the components of the dish, allowing each element to shine while creating a visually striking presentation.",
+          "steps": [
+            "Create a swoosh of tomato sauce on one side of the plate.",
+            "Place a small mound of jollof rice on the opposite side.",
+            "Arrange sliced grilled chicken or protein in the center.",
+            "Add crispy fried plantain chips vertically for height and texture.",
+            "Dot the plate with herb oil for color contrast.",
+            "Finish with micro herbs and edible flowers for elegance."
+          ],
+          "tips": [
+            "Use the back of a spoon to create smooth sauce swooshes",
+            "Maintain clean edges around each component",
+            "Consider the plate as a canvas with intentional negative space"
+          ],
+          "imageSrc": "/images/technique2-placeholder.jpg",
+          "techniqueType": "freeform"
+        },
+        {
+          "id": "modern-minimalist",
+          "name": "Modern Minimalist",
+          "description": "This technique focuses on clean lines, negative space, and precise placement for an elegant, contemporary presentation.",
+          "steps": [
+            "Use a rectangular plate with ample negative space.",
+            "Place a quenelle of jollof rice off-center on the plate.",
+            "Position a small piece of perfectly cooked protein beside the rice.",
+            "Add three small dots of pepper sauce in a line for visual rhythm.",
+            "Place a single thin plantain chip for height and texture.",
+            "Finish with a single herb leaf for a touch of green."
+          ],
+          "tips": [
+            "Less is more - focus on quality over quantity",
+            "Perfect each element's execution",
+            "Use precise, intentional placement"
+          ],
+          "imageSrc": "/images/technique3-placeholder.jpg",
+          "techniqueType": "nordic"
+        }
+      ],
+      "relatedDishes": ["fried-rice", "coconut-rice", "ofada-rice"],
+      "imageSrc": "/images/dish-detail-placeholder.jpg"
+    },
+    {
+      "id": "egusi-soup",
+      "name": "Egusi Soup",
+      "category": "nigerian",
+      "subcategory": "soup",
+      "description": "A rich, thick soup made with ground melon seeds, vegetables, and protein. It's typically eaten with fufu, pounded yam, or other starchy sides.",
+      "origin": "Nigeria (West Africa)",
+      "ingredients": [
+        "Ground egusi (melon) seeds",
+        "Palm oil",
+        "Leafy greens (spinach, bitter leaf, or pumpkin leaves)",
+        "Tomatoes",
+        "Peppers",
+        "Onions",
+        "Stock fish",
+        "Meat or fish",
+        "Seasonings and spices"
+      ],
+      "platingTechniques": [
+        {
+          "id": "bathing-technique",
+          "name": "Bathing Technique",
+          "description": "This technique presents protein partially submerged in the rich egusi soup, creating a luxurious and appetizing presentation.",
+          "steps": [
+            "Select a wide, shallow bowl with enough depth for the soup.",
+            "Pour a base layer of egusi soup into the bowl.",
+            "Place a piece of protein (fish, meat, or seafood) partially submerged in the center.",
+            "Arrange additional protein and vegetables artistically around the main piece.",
+            "Add small pools of palm oil for color contrast.",
+            "Garnish with fresh herbs and a sprinkle of ground crayfish."
+          ],
+          "tips": [
+            "Ensure soup has the right consistency - not too thick or thin",
+            "Create contrast between the yellow egusi and green vegetables",
+            "Consider temperature when serving - the bowl should be warm"
+          ],
+          "imageSrc": "/images/bathing-technique.jpg",
+          "techniqueType": "bathing"
+        },
+        {
+          "id": "organic-materials",
+          "name": "Organic Materials Presentation",
+          "description": "Serving egusi soup in a carved calabash or wooden bowl adds authenticity and a rustic, traditional feel to the presentation.",
+          "steps": [
+            "Select an appropriately sized calabash or wooden bowl.",
+            "Ensure the serving vessel is properly cleaned and treated.",
+            "Pour the egusi soup into the calabash.",
+            "Arrange protein pieces to create height in the center.",
+            "Garnish with fresh herbs and ground spices.",
+            "Serve with the starchy side (pounded yam, fufu) in a separate smaller calabash."
+          ],
+          "tips": [
+            "The natural texture of the calabash adds visual interest",
+            "Consider the size relationship between soup and side dish vessels",
+            "Add a small wooden or horn spoon for authenticity"
+          ],
+          "imageSrc": "/images/organic-technique.jpg",
+          "techniqueType": "organic"
+        }
+      ],
+      "relatedDishes": ["okra-soup", "ogbono-soup", "efo-riro"],
+      "imageSrc": "/images/placeholder-1.jpg"
+    },
+    {
+      "id": "suya",
+      "name": "Suya",
+      "category": "nigerian",
+      "subcategory": "grilled",
+      "description": "Spicy skewered meat, typically beef, coated with a peanut-based spice mix called yaji. It's a popular street food throughout Nigeria and West Africa.",
+      "origin": "Northern Nigeria",
+      "ingredients": [
+        "Beef (sirloin or ribeye)",
+        "Yaji spice mix (ground peanuts, chili pepper, ginger, garlic)",
+        "Vegetable oil",
+        "Onions",
+        "Tomatoes",
+        "Fresh chili peppers"
+      ],
+      "platingTechniques": [
+        {
+          "id": "landscape-arrangement",
+          "name": "Landscape Arrangement",
+          "description": "This technique arranges suya skewers in a linear, horizontal presentation that showcases the meat's charred exterior and juicy interior.",
+          "steps": [
+            "Select a rectangular or oval plate with ample space.",
+            "Arrange 3-4 suya skewers parallel to each other in a horizontal line.",
+            "Place sliced onions, tomatoes, and fresh chilies at one end of the plate.",
+            "Add a small bowl of extra yaji spice mix at the opposite end.",
+            "Drizzle with a small amount of oil or herb-infused oil.",
+            "Garnish with fresh herbs and a wedge of lime or lemon."
+          ],
+          "tips": [
+            "Ensure skewers are uniform in size for visual harmony",
+            "Create color contrast with the garnishes",
+            "Consider removing skewers before serving for easier eating"
+          ],
+          "imageSrc": "/images/landscape-technique.jpg",
+          "techniqueType": "landscape"
+        },
+        {
+          "id": "freeform-arrangement",
+          "name": "Free-form Arrangement",
+          "description": "This artistic approach creates a more casual, dynamic presentation of suya with intentionally placed elements that appear spontaneous.",
+          "steps": [
+            "Select a large round plate with ample negative space.",
+            "Remove meat from skewers and arrange in an organic pile in the center.",
+            "Create swooshes of sauce or oil around the meat.",
+            "Scatter sliced onions, tomatoes, and chilies around the plate.",
+            "Add small piles of yaji spice in strategic locations.",
+            "Finish with micro herbs and edible flowers for color contrast."
+          ],
+          "tips": [
+            "Though it appears random, each element should be intentionally placed",
+            "Use the rule of thirds for visual balance",
+            "Consider height variation for visual interest"
+          ],
+          "imageSrc": "/images/freeform-technique.jpg",
+          "techniqueType": "freeform"
+        }
+      ],
+      "relatedDishes": ["asun", "kilishi", "tsire"],
+      "imageSrc": "/images/placeholder-2.jpg"
+    },
+    {
+      "id": "pounded-yam-efo-riro",
+      "name": "Pounded Yam and Efo Riro",
+      "category": "nigerian",
+      "subcategory": "soup",
+      "description": "Smooth, elastic pounded yam served with efo riro, a rich spinach stew with assorted meats and seafood. This combination is a staple in Yoruba cuisine.",
+      "origin": "Western Nigeria (Yoruba)",
+      "ingredients": [
+        "Yam tubers",
+        "Spinach or pumpkin leaves",
+        "Palm oil",
+        "Assorted meats and fish",
+        "Crayfish",
+        "Peppers",
+        "Onions",
+        "Locust beans (iru)",
+        "Seasonings and spices"
+      ],
+      "platingTechniques": [
+        {
+          "id": "super-bowl",
+          "name": "Super Bowl Technique",
+          "description": "This technique layers pounded yam and efo riro in a bowl, creating a visually appealing presentation that reveals different components as you eat.",
+          "steps": [
+            "Select a wide, shallow bowl with enough depth for both components.",
+            "Place a portion of pounded yam on one side of the bowl.",
+            "Pour efo riro on the other side, allowing it to slightly touch the yam.",
+            "Arrange pieces of meat and fish to create height on top of the stew.",
+            "Add a small pool of palm oil for color contrast.",
+            "Garnish with fresh herbs and a sprinkle of ground crayfish."
+          ],
+          "tips": [
+            "Ensure pounded yam has a smooth, elastic texture",
+            "Create a clear boundary between yam and stew",
+            "Consider the bowl color to enhance visual appeal"
+          ],
+          "imageSrc": "/images/superbowl-technique.jpg",
+          "techniqueType": "superbowl"
+        },
+        {
+          "id": "hide-and-seek",
+          "name": "Hide and Seek Technique",
+          "description": "This playful technique conceals the rich efo riro beneath a thin layer of pounded yam, creating a surprise element when the diner breaks through.",
+          "steps": [
+            "Select a wide, shallow bowl or plate with a slight depression.",
+            "Pour a base layer of efo riro into the center of the plate.",
+            "Place a thin, flat disc of pounded yam on top, covering most of the stew.",
+            "Leave a small portion of the stew visible around the edges.",
+            "Create a small opening or crack in the center of the yam to hint at what's beneath.",
+            "Garnish with fresh herbs and a drizzle of palm oil."
+          ],
+          "tips": [
+            "Ensure the pounded yam layer is thin enough to cut through easily",
+            "The visible rim of stew creates anticipation",
+            "Consider adding a small piece of meat or fish as a visual cue"
+          ],
+          "imageSrc": "/images/hideandseek-technique.jpg",
+          "techniqueType": "hideandseek"
+        }
+      ],
+      "relatedDishes": ["amala-ewedu", "eba-egusi", "fufu-okra-soup"],
+      "imageSrc": "/images/placeholder-3.jpg"
+    },
+    {
+      "id": "moin-moin",
+      "name": "Moin Moin",
+      "category": "nigerian",
+      "subcategory": "steamed",
+      "description": "A steamed bean pudding made from peeled and blended black-eyed peas, peppers, onions, and spices. It can be plain or filled with eggs, fish, or meat.",
+      "origin": "Nigeria (West Africa)",
+      "ingredients": [
+        "Black-eyed peas",
+        "Red bell peppers",
+        "Scotch bonnet peppers",
+        "Onions",
+        "Vegetable oil",
+        "Seasonings",
+        "Optional fillings (boiled eggs, fish, meat)"
+      ],
+      "platingTechniques": [
+        {
+          "id": "nordic-look",
+          "name": "Nordic Look",
+          "description": "This minimalist technique presents moin moin with clean lines, natural elements, and a focus on the dish's natural beauty.",
+          "steps": [
+            "Select a simple, preferably white plate with clean lines.",
+            "Unmold the moin moin and slice it into a perfect rectangle or triangle.",
+            "Place the moin moin off-center on the plate.",
+            "Add a small amount of sauce or oil in a precise line or dot pattern.",
+            "Place a single slice of boiled egg or piece of fish for contrast.",
+            "Finish with a few herb leaves or edible flowers for color."
+          ],
+          "tips": [
+            "Focus on perfect execution and clean cuts",
+            "Use negative space intentionally",
+            "Consider the geometric relationship between elements"
+          ],
+          "imageSrc": "/images/placeholder-1.jpg",
+          "techniqueType": "nordic"
+        },
+        {
+          "id": "futuristic",
+          "name": "Futuristic Technique",
+          "description": "This contemporary approach presents moin moin in unexpected shapes and forms, using modern tools and techniques for a cutting-edge presentation.",
+          "steps": [
+            "Use a ring mold or specialized mold to create a perfect cylindrical or geometric shape.",
+            "Place the molded moin moin in the center of a dark plate for contrast.",
+            "Create a sauce or puree with vibrant color and pipe it in a precise pattern.",
+            "Add elements of molecular gastronomy, such as foam or spheres.",
+            "Incorporate unexpected textures, like crispy elements or powder.",
+            "Use tweezers to place micro herbs or edible flowers with precision."
+          ],
+          "tips": [
+            "Focus on precision and unexpected elements",
+            "Consider using modern serving vessels like slate or glass",
+            "Create contrast between traditional food and modern presentation"
+          ],
+          "imageSrc": "/images/placeholder-2.jpg",
+          "techniqueType": "futuristic"
+        }
+      ],
+      "relatedDishes": ["akara", "gbegiri", "ekuru"],
+      "imageSrc": "/images/placeholder-3.jpg"
+    }
+  ]
+}
