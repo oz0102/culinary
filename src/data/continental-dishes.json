@@ -1,318 +1,675 @@
 {
   "continentalDishes": [
     {
-      "id": "beef-bourguignon",
-      "name": "Beef Bourguignon",
+      "id": "jollof-rice-continental-twist",
+      "name": "Jollof Rice with Grilled Chicken and Plantain Puree",
       "category": "continental",
-      "subcategory": "french",
-      "description": "A classic French beef stew braised in red wine with mushrooms, pearl onions, and bacon. This hearty dish originated as a peasant meal but has evolved into a sophisticated staple of French cuisine.",
-      "origin": "France (Burgundy region)",
+      "subcategory": "african-fusion",
+      "description": "A Nigerian staple elevated with continental plating techniques. Saffron-infused jollof rice served with succulent grilled chicken and a smooth plantain puree.",
+      "origin": "Nigeria (inspired)",
       "ingredients": [
-        "Beef chuck or brisket",
-        "Red wine (traditionally Burgundy)",
-        "Bacon or pancetta",
-        "Pearl onions",
-        "Mushrooms",
-        "Carrots",
+        "Rice",
+        "Tomatoes",
+        "Peppers (bell, scotch bonnet)",
+        "Onions",
         "Garlic",
-        "Bouquet garni (thyme, bay leaf, parsley)",
-        "Beef stock"
+        "Chicken",
+        "Plantain (ripe)",
+        "Chicken stock",
+        "Vegetable oil",
+        "Spices (curry powder, thyme, nutmeg)",
+        "Saffron"
       ],
       "platingTechniques": [
         {
-          "id": "bathing-technique",
-          "name": "Bathing Technique",
-          "description": "This technique presents the beef partially submerged in the rich wine sauce, creating a luxurious and appetizing presentation.",
+          "id": "stack-and-swirl",
+          "name": "Stacked Jollof with Swirled Puree",
+          "description": "A modern presentation featuring a timbale of jollof rice and an artistic swirl of plantain puree.",
           "steps": [
-            "Select a wide, shallow bowl with enough depth for the sauce.",
-            "Pour a base layer of the wine sauce into the bowl.",
-            "Place a large piece of tender beef in the center, partially submerged.",
-            "Arrange mushrooms, pearl onions, and bacon around the beef.",
-            "Add a few more spoonfuls of sauce over the top of the beef.",
-            "Garnish with fresh thyme sprigs and a light dusting of parsley."
+            "Use a ring mold to create a neat stack of jollof rice in the center of the plate.",
+            "Pipe a smooth plantain puree around the base of the rice stack in a circular or abstract swirl.",
+            "Slice grilled chicken and arrange it leaning against the rice stack.",
+            "Garnish with fresh herbs like parsley or basil and a sprinkle of paprika.",
+            "Optional: Add a small drizzle of chili oil for color and flavor."
           ],
           "tips": [
-            "Ensure the sauce has the right consistency - not too thick or thin",
-            "The beef should be fork-tender but still hold its shape",
-            "Consider the bowl color - white or light-colored bowls showcase the rich burgundy sauce"
+            "Ensure the jollof rice is firm enough to hold its shape in the mold.",
+            "The plantain puree should be smooth and easily pipeable.",
+            "Consider the color contrast between the red rice and yellow puree."
           ],
-          "imageSrc": "/images/bathing-technique.jpg",
-          "techniqueType": "bathing"
+          "imageSrc": "https://i.pinimg.com/originals/a1/b2/c3/a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6.jpg",
+          "techniqueType": "stacking"
         },
         {
-          "id": "organic-materials",
-          "name": "Organic Materials Presentation",
-          "description": "Serving Beef Bourguignon on a wooden board or in a cast iron vessel adds rustic charm and authenticity to this traditional dish.",
+          "id": "deconstructed-jollof",
+          "name": "Deconstructed Jollof Platter",
+          "description": "Presenting the individual components of jollof in an artistic and approachable manner.",
           "steps": [
-            "Select a small cast iron cocotte or wooden serving board.",
-            "If using a board, create a shallow well for the sauce.",
-            "Place the beef bourguignon in the center of the vessel.",
-            "Arrange vegetables artistically around the meat.",
-            "Add a small bunch of fresh herbs on the side.",
-            "Serve with a separate small wooden bowl of sauce for adding tableside."
+            "Arrange a bed of fluffy saffron rice on one side of a rectangular plate.",
+            "Place a small portion of the stewed tomato and pepper base in a separate small bowl or ramekin.",
+            "Display grilled chicken skewers or pieces alongside the rice.",
+            "Create small quenelles of plantain puree and place them strategically on the plate.",
+            "Garnish with fresh herbs, microgreens, and edible flowers for visual appeal."
           ],
           "tips": [
-            "The natural texture of wood or cast iron adds visual interest",
-            "Warm the serving vessel before plating to keep the dish hot",
-            "Consider adding a small garnish of flaky salt on the rim"
+            "Highlight the vibrant colors of each component.",
+            "Use different textures to create interest.",
+            "Ensure each element is seasoned well individually."
           ],
-          "imageSrc": "/images/organic-technique.jpg",
-          "techniqueType": "organic"
+          "imageSrc": "https://i.pinimg.com/originals/f9/d8/e7/f9d8e7a2b5c6d4e3f1a0b8c9d7e6f0b1.jpg",
+          "techniqueType": "deconstructed"
         }
       ],
-      "relatedDishes": ["coq-au-vin", "boeuf-a-la-mode", "daube-provencale"],
-      "imageSrc": "/images/dish-detail-placeholder.jpg"
+      "relatedDishes": ["fried-rice-continental", "yam-pottage-modern"],
+      "imageSrc": "https://i.pinimg.com/originals/b0/c1/d2/b0c1d2e3f4a5b6c7d8e9f0a1b2c3d4e5.jpg"
     },
     {
-      "id": "risotto-milanese",
-      "name": "Risotto Milanese",
+      "id": "peppered-snails-garlic-butter",
+      "name": "Peppered Snails with Garlic Butter and Herb Crostini",
       "category": "continental",
-      "subcategory": "italian",
-      "description": "A creamy Italian rice dish from Milan, distinguished by its vibrant yellow color from saffron. Traditionally served with osso buco, it's known for its rich, velvety texture and delicate flavor.",
-      "origin": "Italy (Milan)",
+      "subcategory": "african-fusion",
+      "description": "Succulent peppered snails pan-seared in garlic butter, served with crispy herb-infused crostini.",
+      "origin": "Nigeria (inspired)",
       "ingredients": [
-        "Arborio or Carnaroli rice",
-        "Saffron threads",
-        "White wine",
-        "Onions",
+        "Snails (cleaned and prepared)",
         "Butter",
-        "Parmesan cheese",
-        "Chicken or vegetable stock",
+        "Garlic (minced)",
+        "Scotch bonnet pepper (finely chopped)",
+        "Onions (chopped)",
+        "Bell peppers (diced)",
+        "Fresh herbs (parsley, thyme, rosemary - chopped)",
+        "Salt",
+        "Pepper",
+        "Baguette (sliced)",
         "Olive oil"
       ],
       "platingTechniques": [
         {
-          "id": "freeform-technique",
-          "name": "Free-form Technique",
-          "description": "This artistic approach creates a modern, abstract presentation of risotto with intentional swooshes and artistic elements.",
+          "id": "radial-arrangement",
+          "name": "Radial Snail Arrangement",
+          "description": "Arranging the peppered snails in a circular pattern around a central element.",
           "steps": [
-            "Select a large, flat plate with ample negative space.",
-            "Create a swoosh of parmesan cream on one side of the plate.",
-            "Place a quenelle or small mound of risotto off-center.",
-            "Add dots of saffron oil or herb oil around the plate.",
-            "Place thin shavings of Parmesan at strategic points.",
-            "Finish with micro herbs and a few saffron threads."
+            "Place a small mound of herb crostini in the center of the plate.",
+            "Arrange the peppered snails radially around the crostini, with the open ends facing outwards.",
+            "Drizzle the garlic butter sauce over the snails and crostini.",
+            "Garnish with fresh herbs and a sprinkle of red pepper flakes for color."
           ],
           "tips": [
-            "The risotto should be al dente but creamy enough to hold its shape",
-            "Use the back of a warm spoon to create smooth swooshes",
-            "Consider the golden color of the risotto as a focal point"
+            "Ensure the snails are cooked and tender.",
+            "The garlic butter sauce should be flavorful and not too greasy.",
+            "The crostini should be crispy and provide a textural contrast."
           ],
-          "imageSrc": "/images/freeform-technique.jpg",
-          "techniqueType": "freeform"
+          "imageSrc": "https://i.pinimg.com/originals/c8/d9/e0/c8d9e0a1b2f3c4d5e6f7a8b9d0e1f2c3.jpg",
+          "techniqueType": "radial"
         },
         {
-          "id": "super-bowl",
-          "name": "Super Bowl Technique",
-          "description": "This elegant bowl presentation showcases the creamy texture of risotto while allowing for artistic garnishes and height.",
+          "id": "skewered-presentation",
+          "name": "Peppered Snail Skewers with Dipping Sauce",
+          "description": "Presenting the snails on skewers for an elegant and easy-to-eat appetizer.",
           "steps": [
-            "Select a shallow, wide-rimmed bowl in white or a neutral color.",
-            "Spoon the risotto into the center of the bowl, creating a slight depression in the middle.",
-            "Place a piece of gold leaf or a few saffron threads in the center.",
-            "Add shaved truffles or Parmesan in a small pile on top.",
-            "Drizzle a small amount of herb oil or truffle oil around the edges.",
-            "Garnish with micro herbs or edible flowers for height and color."
+            "Thread the cooked peppered snails onto small skewers.",
+            "Arrange the skewers on a platter or plate.",
+            "Serve with a small bowl of the garlic butter sauce for dipping.",
+            "Garnish with fresh herbs and lemon wedges."
           ],
           "tips": [
-            "The bowl should be warm to maintain the risotto's temperature",
-            "The risotto should spread slightly but not touch the rim",
-            "Consider adding a textural element like a Parmesan crisp"
+            "Use appropriately sized skewers to prevent overcrowding.",
+            "Ensure the snails are securely threaded.",
+            "The dipping sauce should be served warm."
           ],
-          "imageSrc": "/images/superbowl-technique.jpg",
-          "techniqueType": "superbowl"
+          "imageSrc": "https://i.pinimg.com/originals/3a/b2/c1/3ab2c1d4e5f6g7h8i9j0k1l2m3n4o5p6.jpg",
+          "techniqueType": "skewers"
         }
       ],
-      "relatedDishes": ["risotto-ai-funghi", "arancini", "osso-buco"],
-      "imageSrc": "/images/placeholder-1.jpg"
+      "relatedDishes": ["garlic-prawns", "escargots-bourguignonne"],
+      "imageSrc": "https://i.pinimg.com/originals/e7/f0/a2/e7f0a2b1c3d4e5f6g7h8i9j0k1l2m3n4o5p6.jpg"
     },
     {
-      "id": "paella",
-      "name": "Paella",
+      "id": "yam-pottage-with-smoked-fish-veloute",
+      "name": "Yam Pottage with Smoked Fish Velouté and Crispy Onions",
       "category": "continental",
-      "subcategory": "spanish",
-      "description": "A vibrant Spanish rice dish originating from Valencia, traditionally cooked in a wide, shallow pan over an open fire. It features saffron-infused rice with a variety of meats, seafood, and vegetables.",
-      "origin": "Spain (Valencia)",
+      "subcategory": "african-fusion",
+      "description": "A creamy and flavorful yam pottage elevated with a smooth smoked fish velouté and crispy fried onions.",
+      "origin": "Nigeria (inspired)",
       "ingredients": [
-        "Short-grain rice (Bomba or Calasparra)",
-        "Saffron threads",
-        "Olive oil",
-        "Chicken, rabbit, or duck",
-        "Seafood (prawns, mussels, clams)",
-        "Bell peppers",
-        "Tomatoes",
-        "Peas",
-        "Paprika",
-        "Garlic"
-      ],
-      "platingTechniques": [
-        {
-          "id": "landscape-arrangement",
-          "name": "Landscape Technique",
-          "description": "This technique arranges paella components in a linear, horizontal presentation that showcases the variety of ingredients and colors.",
-          "steps": [
-            "Select a rectangular or oval plate with ample space.",
-            "Create a bed of saffron rice in a thin, elongated shape across the plate.",
-            "Arrange seafood and meat pieces in a deliberate pattern along the rice.",
-            "Place vegetables strategically for color contrast.",
-            "Add lemon wedges at one end of the arrangement.",
-            "Garnish with fresh herbs and a light drizzle of olive oil."
-          ],
-          "tips": [
-            "Ensure each component is visible and identifiable",
-            "Create a natural flow from one end of the plate to the other",
-            "Consider the color progression and balance"
-          ],
-          "imageSrc": "/images/landscape-technique.jpg",
-          "techniqueType": "landscape"
-        },
-        {
-          "id": "organic-materials",
-          "name": "Traditional Pan Presentation",
-          "description": "Serving paella in its traditional cooking vessel (paellera) creates an authentic, rustic presentation that honors the dish's heritage.",
-          "steps": [
-            "Use a traditional paella pan or a small individual serving pan.",
-            "Allow the rice to develop the prized socarrat (crispy bottom layer).",
-            "Arrange seafood and meat pieces decoratively on top of the rice.",
-            "Place lemon wedges around the edge of the pan.",
-            "Garnish with fresh herbs and a drizzle of high-quality olive oil.",
-            "Serve the pan on a wooden board or heat-resistant mat."
-          ],
-          "tips": [
-            "The pan itself becomes part of the presentation",
-            "The circular shape creates a natural focal point",
-            "Consider adding height with vertical elements like prawns or mussels"
-          ],
-          "imageSrc": "/images/organic-technique.jpg",
-          "techniqueType": "organic"
-        }
-      ],
-      "relatedDishes": ["fideuà", "arroz-negro", "arroz-con-pollo"],
-      "imageSrc": "/images/placeholder-2.jpg"
-    },
-    {
-      "id": "coq-au-vin",
-      "name": "Coq au Vin",
-      "category": "continental",
-      "subcategory": "french",
-      "description": "A classic French dish of chicken braised with wine, lardons, mushrooms, and garlic. Traditionally made with rooster, modern versions typically use chicken pieces slowly simmered in red wine.",
-      "origin": "France (Burgundy)",
-      "ingredients": [
-        "Chicken pieces",
-        "Red wine (traditionally Burgundy)",
-        "Bacon or lardons",
-        "Pearl onions",
-        "Mushrooms",
-        "Garlic",
-        "Bouquet garni (thyme, bay leaf, parsley)",
-        "Butter",
+        "Yam (diced)",
+        "Smoked fish (flaked)",
+        "Onions (chopped)",
+        "Bell peppers (diced)",
+        "Scotch bonnet pepper (optional, finely chopped)",
+        "Palm oil",
+        "Vegetable stock",
+        "Milk or cream",
+        "Fresh herbs (parsley, thyme)",
+        "Salt",
+        "Pepper",
+        "Onions (thinly sliced for frying)",
         "Flour"
       ],
       "platingTechniques": [
         {
-          "id": "bathing-technique",
-          "name": "Bathing Technique",
-          "description": "This technique presents the chicken partially submerged in the rich wine sauce, creating a luxurious and appetizing presentation.",
+          "id": "layered-bowl",
+          "name": "Layered Pottage Bowl",
+          "description": "Presenting the yam pottage and smoked fish velouté in distinct layers within a bowl.",
           "steps": [
-            "Select a wide, shallow bowl with enough depth for the sauce.",
-            "Pour a base layer of the wine sauce into the bowl.",
-            "Place a chicken piece (preferably thigh or breast) in the center, partially submerged.",
-            "Arrange mushrooms, pearl onions, and lardons around the chicken.",
-            "Add a few more spoonfuls of sauce over the top of the chicken.",
-            "Garnish with fresh thyme sprigs and a light dusting of parsley."
+            "Spoon a layer of the creamy yam pottage into the bottom of a bowl.",
+            "Gently pour a layer of the smoked fish velouté over the pottage.",
+            "Top with crispy fried onions for texture and visual appeal.",
+            "Garnish with fresh herbs like chopped parsley or chives."
           ],
           "tips": [
-            "The sauce should be reduced to the right consistency - not too thin",
-            "The chicken skin should remain crispy on top if possible",
-            "Consider the color contrast between the dark sauce and garnishes"
+            "Ensure both the pottage and velouté have a smooth and consistent texture.",
+            "The layers should be distinct but complementary in flavor.",
+            "The crispy onions should be golden brown and not greasy."
           ],
-          "imageSrc": "/images/bathing-technique.jpg",
-          "techniqueType": "bathing"
+          "imageSrc": "https://i.pinimg.com/originals/9b/a8/c7/9ba8c7d2e3f4a5b6c7d8e9f0a1b2c3d4e5.jpg",
+          "techniqueType": "layered"
         },
         {
-          "id": "nordic-look",
-          "name": "Nordic Look",
-          "description": "This minimalist technique presents Coq au Vin with clean lines, natural elements, and a focus on the dish's natural beauty.",
+          "id": "quenelle-and-drizzle",
+          "name": "Yam Pottage Quenelle with Smoked Fish Drizzle",
+          "description": "A more refined presentation featuring a quenelle of yam pottage and an artistic drizzle of smoked fish velouté.",
           "steps": [
-            "Select a simple, preferably white plate with clean lines.",
-            "Place a single, perfectly cooked chicken piece off-center on the plate.",
-            "Add three mushrooms and three pearl onions in a precise arrangement.",
-            "Create a small pool of sauce in one corner of the plate.",
-            "Add a single sprig of thyme and a small piece of bacon for contrast.",
-            "Leave ample negative space to highlight the components."
+            "Use two spoons to create a smooth quenelle of yam pottage on a plate.",
+            "Drizzle the smoked fish velouté around the quenelle in an abstract pattern.",
+            "Scatter crispy fried onions around the plate.",
+            "Garnish with microgreens or edible flowers for a touch of elegance."
           ],
           "tips": [
-            "Focus on perfect execution of each element",
-            "Use negative space intentionally",
-            "Consider the geometric relationship between components"
+            "Practice the quenelle technique for a smooth and uniform shape.",
+            "The velouté should be thin enough to drizzle easily.",
+            "Consider the color contrast between the pottage and the velouté."
           ],
-          "imageSrc": "/images/placeholder-1.jpg",
-          "techniqueType": "nordic"
+          "imageSrc": "https://i.pinimg.com/originals/e2/f1/a0/e2f1a0b1c3d4e5f6g7h8i9j0k1l2m3n4o5p6.jpg",
+          "techniqueType": "quenelle"
         }
       ],
-      "relatedDishes": ["beef-bourguignon", "poulet-chasseur", "chicken-fricassee"],
-      "imageSrc": "/images/placeholder-3.jpg"
+      "relatedDishes": ["potato-gratin", "cream-of-vegetable-soup"],
+      "imageSrc": "https://i.pinimg.com/originals/f0/e9/b8/f0e9b8a1c3d4e5f6g7h8i9j0k1l2m3n4o5p6.jpg"
     },
     {
-      "id": "beef-wellington",
-      "name": "Beef Wellington",
+      "id": "grilled-catfish-sauce-vierge",
+      "name": "Grilled Catfish with Sauce Vierge and Roasted Root Vegetables",
       "category": "continental",
-      "subcategory": "british",
-      "description": "A luxurious dish consisting of beef tenderloin coated with pâté and duxelles (mushroom paste), wrapped in puff pastry, and baked. Named after the Duke of Wellington, it's a showstopping centerpiece for special occasions.",
-      "origin": "United Kingdom",
+      "subcategory": "african-fusion",
+      "description": "Flaky grilled catfish served with a vibrant and fresh sauce vierge and accompanied by roasted seasonal root vegetables.",
+      "origin": "Nigeria (inspired)",
       "ingredients": [
-        "Beef tenderloin",
-        "Puff pastry",
-        "Mushroom duxelles",
-        "Pâté (often foie gras or chicken liver)",
-        "Prosciutto or Parma ham",
-        "Egg wash",
-        "Dijon mustard",
-        "Herbs (thyme, rosemary)"
+        "Catfish fillets",
+        "Olive oil",
+        "Salt",
+        "Pepper",
+        "Tomatoes (diced)",
+        "Red onion (finely diced)",
+        "Fresh basil (chopped)",
+        "Fresh parsley (chopped)",
+        "Lemon juice",
+        "Garlic (minced)",
+        "Carrots (diced)",
+        "Sweet potatoes (diced)",
+        "Bell peppers (diced)",
+        "Thyme",
+        "Rosemary"
       ],
       "platingTechniques": [
         {
-          "id": "hide-and-seek",
-          "name": "Hide and Seek Technique",
-          "description": "This technique creates drama by presenting the Wellington whole, then slicing it tableside to reveal the perfectly cooked interior layers.",
+          "id": "centerpiece-fish",
+          "name": "Centerpiece Fish with Vegetable Scatter",
+          "description": "Presenting the grilled catfish as the main focus with the roasted vegetables artfully scattered around.",
           "steps": [
-            "Present the whole Beef Wellington on a wooden board or serving platter.",
-            "Garnish the board with fresh herbs and edible flowers.",
-            "Slice the Wellington tableside to reveal the layers and pink center.",
-            "Transfer a slice to a warmed plate with a swoosh of sauce.",
-            "Add small accompaniments like roasted vegetables around the slice.",
-            "Finish with a light drizzle of jus or sauce."
+            "Place the grilled catfish fillet in the center of the plate.",
+            "Spoon the sauce vierge generously over the fish.",
+            "Arrange the roasted root vegetables around the fish in a visually appealing manner.",
+            "Garnish with fresh herbs and a lemon wedge."
           ],
           "tips": [
-            "The reveal of the interior is the key moment - ensure perfect doneness",
-            "Consider the cross-section as the focal point of the presentation",
-            "Allow the Wellington to rest properly before slicing to prevent juices from running"
+            "Ensure the catfish is cooked through but still moist.",
+            "The sauce vierge should be fresh and vibrant.",
+            "The roasted vegetables should be tender and slightly caramelized."
           ],
-          "imageSrc": "/images/hideandseek-technique.jpg",
-          "techniqueType": "hideandseek"
+          "imageSrc": "https://i.pinimg.com/originals/a4/b5/c2/a4b5c2d3e4f5g6h7i8j9k0l2m3n4o5p6.jpg",
+          "techniqueType": "centerpiece"
         },
         {
-          "id": "landscape-arrangement",
-          "name": "Landscape Technique",
-          "description": "This technique arranges sliced Beef Wellington in a linear, horizontal presentation that showcases the layers and textures.",
+          "id": "layered-vegetables-fish-top",
+          "name": "Layered Vegetables with Fish on Top",
+          "description": "Creating a bed of roasted vegetables and placing the grilled catfish on top, drizzled with sauce vierge.",
           "steps": [
-            "Select a rectangular or oval plate with ample space.",
-            "Slice the Wellington into even pieces, showing the perfect layers.",
-            "Arrange 2-3 slices in a slightly overlapping row across the plate.",
-            "Create a line of sauce parallel to the Wellington slices.",
-            "Add small piles of accompaniments at strategic points along the arrangement.",
-            "Garnish with micro herbs and edible flowers for height and color."
+            "Arrange the roasted root vegetables in an even layer on the plate.",
+            "Place the grilled catfish fillet on top of the vegetables.",
+            "Spoon the sauce vierge over the fish, allowing some to drizzle down the sides.",
+            "Garnish with fresh herbs and a sprinkle of sea salt."
           ],
           "tips": [
-            "The slices should be even and show all layers clearly",
-            "Create a natural flow from one end of the plate to the other",
-            "Consider the color contrast between the pink beef, golden pastry, and dark mushroom layer"
+            "The vegetable layer should be neat and visually appealing.",
+            "The fish should be positioned attractively on top.",
+            "Ensure the sauce vierge complements the flavors of the fish and vegetables."
           ],
-          "imageSrc": "/images/landscape-technique.jpg",
-          "techniqueType": "landscape"
+          "imageSrc": "https://i.pinimg.com/originals/b7/c4/d1/b7c4d1e2f3a5b6c7d8e9f0a1b2c3d4e5.jpg",
+          "techniqueType": "layered"
         }
       ],
-      "relatedDishes": ["chateaubriand", "beef-en-croute", "salmon-en-croute"],
-      "imageSrc": "/images/placeholder-2.jpg"
+      "relatedDishes": ["baked-salmon-dill-sauce", "pan-seared-tilapia-lemon-caper-sauce"],
+      "imageSrc": "https://i.pinimg.com/originals/c1/d3/e0/c1d3e0a1b2f3c4d5e6f7a8b9d0e1f2c3.jpg"
+    },
+    {
+      "id": "plantain-fritters-spicy-tomato-dip",
+      "name": "Plantain Fritters with Spicy Tomato and Basil Dip",
+      "category": "continental",
+      "subcategory": "african-fusion",
+      "description": "Sweet and savory plantain fritters served with a tangy and spicy tomato and basil dipping sauce.",
+      "origin": "Nigeria (inspired)",
+      "ingredients": [
+        "Plantain (ripe, mashed)",
+        "Flour",
+        "Sugar",
+        "Salt",
+        "Vegetable oil (for frying)",
+        "Tomatoes (diced)",
+        "Onion (chopped)",
+        "Garlic (minced)",
+        "Scotch bonnet pepper (finely chopped)",
+        "Fresh basil (chopped)",
+        "Olive oil",
+        "Vinegar"
+      ],
+      "platingTechniques": [
+        {
+          "id": "scattered-fritters",
+          "name": "Artfully Scattered Fritters",
+          "description": "Presenting the plantain fritters in a seemingly random but visually appealing arrangement.",
+          "steps": [
+            "Arrange the fried plantain fritters on a platter or plate, allowing some to overlap slightly.",
+            "Place a small bowl of the spicy tomato and basil dip in the center or on the side.",
+            "Garnish with fresh basil leaves and a sprinkle of powdered sugar for contrast."
+          ],
+          "tips": [
+            "Ensure the fritters are golden brown and crispy.",
+            "The dipping sauce should be flavorful and have a good consistency.",
+            "Consider the color contrast between the golden fritters and the red sauce."
+          ],
+          "imageSrc": "https://i.pinimg.com/originals/d6/e1/b9/d6e1b9a8c7d2e3f4a5b6c7d8e9f0a1b2c3d4e5.jpg",
+          "techniqueType": "scattered"
+        },
+        {
+          "id": "stacked-fritter-tower",
+          "name": "Stacked Fritter Tower with Dip Drizzle",
+          "description": "Creating a small tower of plantain fritters with the dipping sauce drizzled over.",
+          "steps": [
+            "Stack the plantain fritters to form a small tower.",
+            "Drizzle the spicy tomato and basil dip over the tower, allowing it to cascade down the sides.",
+            "Garnish with a sprig of fresh basil on top."
+          ],
+          "tips": [
+            "Ensure the fritters are stable enough to form a tower.",
+            "The dipping sauce should be thick enough to cling to the fritters.",
+            "Consider the height and visual impact of the tower."
+          ],
+          "imageSrc": "https://i.pinimg.com/originals/e9/f2/c0/e9f2c0a1b2f3c4d5e6f7a8b9d0e1f2c3.jpg",
+          "techniqueType": "stacking"
+        }
+      ],
+      "relatedDishes": ["apple-fritters", "beignets"],
+      "imageSrc": "https://i.pinimg.com/originals/f3/a0/c9/f3a0c9d2e3f4a5b6c7d8e9f0a1b2c3d4e5.jpg"
+    },
+    {
+      "id": "ofada-rice-sauce-modern",
+      "name": "Ofada Rice with Ayamase and Smoked Fish Garnish",
+      "category": "continental",
+      "subcategory": "african-fusion",
+      "description": "Unpolished Ofada rice served with the intensely flavored Ayamase sauce and garnished with flaked smoked fish.",
+      "origin": "Nigeria (inspired)",
+      "ingredients": [
+        "Ofada rice",
+        "Palm oil",
+        "Green bell peppers (ata rodo)",
+        "Locust beans (iru)",
+        "Onions",
+        "Smoked fish",
+        "Beef or assorted meat (optional)",
+        "Palm oil",
+        "Spices (ginger, garlic, bouillon)",
+        "Salt",
+        "Pepper"
+      ],
+      "platingTechniques": [
+        {
+          "id": "molded-rice-sauce-pool",
+          "name": "Molded Ofada Rice with Ayamase Pool",
+          "description": "Using a mold to shape the Ofada rice and creating a pool of Ayamase sauce around it.",
+          "steps": [
+            "Use a ring mold or a small bowl to shape the cooked Ofada rice in the center of the plate.",
+            "Spoon the Ayamase sauce around the molded rice, creating a vibrant green pool.",
+            "Arrange pieces of cooked meat or smoked fish on top of the rice.",
+            "Garnish with thinly sliced red onions and fresh herbs."
+          ],
+          "tips": [
+            "Ensure the Ofada rice is slightly sticky to hold its shape.",
+            "The Ayamase sauce should be thick enough to form a pool without spreading too much.",
+            "Consider the color contrast between the brown rice and green sauce."
+          ],
+          "imageSrc": "https://i.pinimg.com/originals/8c/d7/e5/8cd7e5a2b5c6d4e3f1a0b8c9d7e6f0b1.jpg",
+          "techniqueType": "molding"
+        },
+        {
+          "id": "rice-and-sauce-stripes",
+          "name": "Ofada Rice and Ayamase Stripes",
+          "description": "Creating alternating stripes of Ofada rice and Ayamase sauce for a visually striking presentation.",
+          "steps": [
+            "On a rectangular plate, create parallel stripes of cooked Ofada rice and Ayamase sauce.",
+            "Place pieces of cooked meat or smoked fish along the stripes.",
+            "Garnish with a sprinkle of chopped bell peppers and fresh herbs."
+          ],
+          "tips": [
+            "Use piping bags or spoons to create neat and even stripes.",
+            "Ensure the stripes have good color contrast.",
+            "Consider the balance of rice and sauce in each bite."
+          ],
+          "imageSrc": "https://i.pinimg.com/originals/a9/e6/f4/a9e6f4b1c3d4e5f6g7h8i9j0k1l2m3n4o5p6.jpg",
+          "techniqueType": "stripes"
+        }
+      ],
+      "relatedDishes": ["local-rice-stew", "native-jollof"],
+      "imageSrc": "https://i.pinimg.com/originals/b2/f5/d3/b2f5d3e2f3a5b6c7d8e9f0a1b2c3d4e5.jpg"
+    },
+    {
+      "id": "moi-moi-with-prawns-parsley-oil",
+      "name": "Moi Moi with Grilled Prawns and Parsley Oil Drizzle",
+      "category": "continental",
+      "subcategory": "african-fusion",
+      "description": "Steamed bean pudding (Moi Moi) served with succulent grilled prawns and a vibrant parsley-infused oil.",
+      "origin": "Nigeria (inspired)",
+      "ingredients": [
+        "Beans (black-eyed peas)",
+        "Onions",
+        "Bell peppers",
+        "Scotch bonnet pepper (optional)",
+        "Palm oil",
+        "Vegetable oil",
+        "Fish (mackerel or sardine, flaked)",
+        "Eggs (optional)",
+        "Prawns (large)",
+        "Fresh parsley",
+        "Garlic",
+        "Salt",
+        "Pepper"
+      ],
+      "platingTechniques": [
+        {
+          "id": "deconstructed-moi-moi",
+          "name": "Deconstructed Moi Moi with Prawn Skewers",
+          "description": "Presenting the individual components of Moi Moi in an artistic and modern way.",
+          "steps": [
+            "Create small quenelles or mounds of the Moi Moi mixture and gently pan-fry or bake them.",
+            "Grill the prawns on skewers until pink and cooked through.",
+            "Arrange the Moi Moi quenelles and prawn skewers on a plate.",
+            "Drizzle parsley oil over the Moi Moi and prawns.",
+            "Garnish with fresh herbs and edible flowers."
+          ],
+          "tips": [
+            "The Moi Moi should be cooked but still moist.",
+            "The prawns should be grilled to perfection.",
+            "The parsley oil should be vibrant green and flavorful."
+          ],
+          "imageSrc": "https://i.pinimg.com/originals/c5/d4/e2/c5d4e2a1b2f3c4d5e6f7a8b9d0e1f2c3.jpg",
+          "techniqueType": "deconstructed"
+        },
+        {
+          "id": "molded-moi-moi-prawn-top",
+          "name": "Molded Moi Moi with Grilled Prawn Topping",
+          "description": "Using a mold to create elegant shapes of Moi Moi topped with grilled prawns.",
+          "steps": [
+            "Steam the Moi Moi mixture in individual molds (e.g., ramekins or small cups).",
+            "Once cooked, gently unmold the Moi Moi onto a plate.",
+            "Top each molded Moi Moi with one or two grilled prawns.",
+            "Drizzle parsley oil around the base of the Moi Moi.",
+            "Garnish with a sprig of fresh parsley."
+          ],
+          "tips": [
+            "Ensure the molds are lightly oiled for easy release.",
+            "The prawns should be attractively placed on top.",
+            "The parsley oil adds a touch of color and flavor."
+          ],
+          "imageSrc": "https://i.pinimg.com/originals/d8/e3/b0/d8e3b0a1b2f3c4d5e6f7a8b9d0e1f2c3.jpg",
+          "techniqueType": "molding"
+        }
+      ],
+      "relatedDishes": ["tamales", "steamed-fish-cakes"],
+      "imageSrc": "https://i.pinimg.com/originals/e1/f6/a3/e1f6a3b1c3d4e5f6g7h8i9j0k1l2m3n4o5p6.jpg"
+    },
+    {
+      "id": "suya-spiced-chicken-couscous",
+      "name": "Suya Spiced Grilled Chicken with Herbed Couscous",
+      "category": "continental",
+      "subcategory": "african-fusion",
+      "description": "Tender grilled chicken marinated in traditional Nigerian Suya spices, served with fluffy herbed couscous.",
+      "origin": "Nigeria (inspired)",
+      "ingredients": [
+        "Chicken thighs or breasts",
+        "Suya spice mix",
+        "Vegetable oil",
+        "Onions (sliced)",
+        "Bell peppers (sliced)",
+        "Couscous",
+        "Chicken broth",
+        "Fresh herbs (parsley, cilantro, mint - chopped)",
+        "Lemon juice",
+        "Olive oil",
+        "Salt",
+        "Pepper"
+      ],
+      "platingTechniques": [
+        {
+          "id": "couscous-bed-chicken-top",
+          "name": "Couscous Bed with Suya Chicken",
+          "description": "Creating a bed of herbed couscous and placing the Suya spiced grilled chicken on top.",
+          "steps": [
+            "Spoon the herbed couscous onto the plate, creating a soft bed.",
+            "Place the grilled Suya spiced chicken on top of the couscous.",
+            "Arrange grilled onions and bell peppers alongside the chicken.",
+            "Drizzle with a little olive oil and garnish with fresh herbs."
+          ],
+          "tips": [
+            "The couscous should be light and fluffy.",
+            "The chicken should be cooked through and have a nice char from the Suya spices.",
+            "The grilled vegetables add color and flavor."
+          ],
+          "imageSrc": "https://i.pinimg.com/originals/f4/a7/c1/f4a7c1d2e3f4a5b6c7d8e9f0a1b2c3d4e5.jpg",
+          "techniqueType": "layered"
+        },
+        {
+          "id": "skewered-chicken-couscous-mold",
+          "name": "Suya Chicken Skewers with Molded Couscous",
+          "description": "Presenting the Suya chicken on skewers with a neatly molded portion of herbed couscous.",
+          "steps": [
+            "Thread the marinated chicken pieces onto skewers and grill until cooked.",
+            "Use a ring mold or small bowl to shape the herbed couscous on the plate.",
+            "Place the grilled chicken skewers alongside the molded couscous.",
+            "Garnish with a sprinkle of Suya spice and fresh herbs."
+          ],
+          "tips": [
+            "Ensure the chicken pieces are evenly sized for uniform cooking.",
+            "The couscous mold should be neat and hold its shape.",
+            "The Suya spice garnish enhances the visual appeal and flavor."
+          ],
+          "imageSrc": "https://i.pinimg.com/originals/a7/b6/d0/a7b6d0e2f3a5b6c7d8e9f0a1b2c3d4e5.jpg",
+          "techniqueType": "skewers"
+        }
+      ],
+      "relatedDishes": ["moroccan-tagine-couscous", "grilled-lamb-rosemary-potatoes"],
+      "imageSrc": "https://i.pinimg.com/originals/b9/c8/e6/b9c8e6a1b2f3c4d5e6f7a8b9d0e1f2c3.jpg"
+    },
+    {
+      "id": "kunun-zaki-panna-cotta",
+      "name": "Kunun Zaki Panna Cotta with Fruit Compote",
+      "category": "continental",
+      "subcategory": "african-fusion-dessert",
+      "description": "A creamy Italian dessert infused with the flavors of the popular Nigerian drink, Kunun Zaki, served with a fresh fruit compote.",
+      "origin": "Nigeria (inspired)",
+      "ingredients": [
+        "Kunun Zaki (millet drink)",
+        "Heavy cream",
+        "Sugar",
+        "Gelatin sheets or powder",
+        "Mixed fruits (mango, pineapple, strawberries - diced)",
+        "Lemon juice",
+        "Sugar (for compote)"
+      ],
+      "platingTechniques": [
+        {
+          "id": "glass-served-panna-cotta",
+          "name": "Panna Cotta in Glass with Fruit Topping",
+          "description": "Serving the Kunun Zaki panna cotta in elegant glasses topped with the fruit compote.",
+          "steps": [
+            "Pour the set Kunun Zaki panna cotta into individual serving glasses.",
+            "Spoon the fresh fruit compote over the top of the panna cotta.",
+            "Garnish with a sprig of mint or a small edible flower."
+          ],
+          "tips": [
+            "Ensure the panna cotta has a smooth and creamy texture.",
+            "The fruit compote should be fresh and flavorful.",
+            "Use clear glasses to showcase the layers."
+          ],
+          "imageSrc": "https://i.pinimg.com/originals/d2/e7/b1/d2e7b1a2b5c6d4e3f1a0b8c9d7e6f0b1.jpg",
+          "techniqueType": "glassware"
+        },
+        {
+          "id": "unmolded-panna-cotta",
+          "name": "Unmolded Panna Cotta with Fruit Coulis",
+          "description": "Gently unmolding the panna cotta onto a plate and serving it with a fruit coulis.",
+          "steps": [
+            "Lightly oil ramekins or molds before pouring in the panna cotta mixture.",
+            "Once set, gently unmold the panna cotta onto a chilled plate.",
+            "Blend some of the fruit compote to create a smooth coulis and drizzle it around the panna cotta.",
+            "Garnish with fresh fruit slices and a sprinkle of chopped nuts."
+          ],
+          "tips": [
+            "Dip the bottom of the ramekin in warm water for easy unmolding.",
+            "The fruit coulis should have a smooth and pourable consistency.",
+            "Consider the color contrast between the panna cotta and the fruit coulis."
+          ],
+          "imageSrc": "https://i.pinimg.com/originals/e5/f8/c2/e5f8c2a1b2f3c4d5e6f7a8b9d0e1f2c3.jpg",
+          "techniqueType": "unmolded"
+        }
+      ],
+      "relatedDishes": ["italian-panna-cotta", "rice-pudding"],
+      "imageSrc": "https://i.pinimg.com/originals/f8/a9/c3/f8a9c3d2e3f4a5b6c7d8e9f0a1b2c3d4e5.jpg"
+    },
+    {
+      "id": "zobo-infused-sorbet",
+      "name": "Zobo Infused Sorbet with Hibiscus Syrup",
+      "category": "continental",
+      "subcategory": "african-fusion-dessert",
+      "description": "A refreshing sorbet infused with the tangy and floral flavors of the Nigerian Zobo drink, served with a homemade hibiscus syrup.",
+      "origin": "Nigeria (inspired)",
+      "ingredients": [
+        "Zobo drink (hibiscus tea)",
+        "Sugar",
+        "Lemon juice",
+        "Hibiscus flowers (dried)",
+        "Water",
+        "Sugar (for syrup)"
+      ],
+      "platingTechniques": [
+        {
+          "id": "scoops-in-glass",
+          "name": "Sorbet Scoops in Elegant Glassware",
+          "description": "Presenting scoops of the vibrant Zobo sorbet in stylish glasses.",
+          "steps": [
+            "Scoop the Zobo sorbet into chilled glasses (e.g., martini glasses or coupe glasses).",
+            "Drizzle the hibiscus syrup over the sorbet.",
+            "Garnish with fresh berries or a slice of lime."
+          ],
+          "tips": [
+            "Chill the glasses beforehand to keep the sorbet cold.",
+            "The hibiscus syrup should have a good consistency and flavor.",
+            "Consider the color contrast between the dark red sorbet and the garnishes."
+          ],
+          "imageSrc": "https://i.pinimg.com/originals/a2/b8/d1/a2b8d1e2f3a5b6c7d8e9f0a1b2c3d4e5.jpg",
+          "techniqueType": "glassware"
+        },
+        {
+          "id": "sorbet-quenelles",
+          "name": "Sorbet Quenelles with Syrup Swirl",
+          "description": "Creating elegant quenelles of the Zobo sorbet and serving them with an artistic swirl of hibiscus syrup.",
+          "steps": [
+            "Use two spoons to create smooth quenelles of the Zobo sorbet on a chilled plate.",
+            "Drizzle the hibiscus syrup around the sorbet quenelles in a decorative swirl.",
+            "Garnish with fresh mint leaves or edible flowers."
+          ],
+          "tips": [
+            "Ensure the sorbet is firm enough to hold its shape as quenelles.",
+            "The hibiscus syrup should be thick enough to create a defined swirl.",
+            "Consider the negative space on the plate to highlight the sorbet."
+          ],
+          "imageSrc": "https://i.pinimg.com/originals/b5/c9/e8/b5c9e8a1b2f3c4d5e6f7a8b9d0e1f2c3.jpg",
+          "techniqueType": "quenelle"
+        }
+      ],
+      "relatedDishes": ["raspberry-sorbet", "lemon-granita"],
+      "imageSrc": "https://i.pinimg.com/originals/c8/d0/f5/c8d0f5a1b2f3c4d5e6f7a8b9d0e1f2c3.jpg"
+    },
+    {
+      "id": "puff-puff-chocolate-ganache",
+      "name": "Puff Puff with Chocolate Ganache and Salted Caramel Drizzle",
+      "category": "continental",
+      "subcategory": "african-fusion-dessert",
+      "description": "The popular Nigerian fried dough (Puff Puff) elevated with a rich chocolate ganache and a sweet and salty caramel drizzle.",
+      "origin": "Nigeria (inspired)",
+      "ingredients": [
+        "Flour",
+        "Sugar",
+        "Yeast",
+        "Water",
+        "Salt",
+        "Vegetable oil (for frying)",
+        "Chocolate (dark or milk)",
+        "Heavy cream",
+        "Sugar (for caramel)",
+        "Butter",
+        "Heavy cream (for caramel)",
+        "Salt (flaky)"
+      ],
+      "platingTechniques": [
+        {
+          "id": "stacked-puff-puff",
+          "name": "Stacked Puff Puff with Ganache Cascade",
+          "description": "Arranging the Puff Puff in a tower with the chocolate ganache cascading down.",
+          "steps": [
+            "Arrange the fried Puff Puff in a neat stack on a plate.",
+            "Pour the warm chocolate ganache over the top of the stack, allowing it to drip down the sides.",
+            "Drizzle salted caramel sauce over the ganache.",
+            "Garnish with a sprinkle of flaky sea salt."
+          ],
+          "tips": [
+            "Ensure the Puff Puff are golden brown and not too oily.",
+            "The chocolate ganache should be smooth and glossy.",
+            "The salted caramel drizzle adds a contrasting flavor and visual appeal."
+          ],
+          "imageSrc": "https://i.pinimg.com/originals/d5/e8/b3/d5e8b3a1b2f3c4d5e6f7a8b9d0e1f2c3.jpg",
+          "techniqueType": "stacking"
+        },
+        {
+          "id": "puff-puff-skewers-dip",
+          "name": "Puff Puff Skewers with Chocolate and Caramel Dips",
+          "description": "Presenting the Puff Puff on skewers with separate bowls of chocolate ganache and salted caramel for dipping.",
+          "steps": [
+            "Thread the fried Puff Puff onto small skewers.",
+            "Arrange the skewers on a platter.",
+            "Serve with small bowls of warm chocolate ganache and salted caramel sauce for dipping.",
+            "Garnish with a sprinkle of cocoa powder or chopped nuts."
+          ],
+          "tips": [
+            "Use appropriately sized skewers.",
+            "Ensure the dipping sauces are served warm.",
+            "Provide napkins as this can be a messy but delicious treat."
+          ],
+          "imageSrc": "https://i.pinimg.com/originals/e8/f9/c4/e8f9c4a1b2f3c4d5e6f7a8b9d0e1f2c3.jpg",
+          "techniqueType": "skewers"
+        }
+      ],
+      "relatedDishes": ["doughnuts", "beignets"],
+      "imageSrc": "https://i.pinimg.com/originals/f1/a0/d7/f1a0d7a1b2f3c4d5e6f7a8b9d0e1f2c3.jpg"
     }
   ]
 }
