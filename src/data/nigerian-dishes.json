@@ -80,7 +80,7 @@
         }
       ],
       "relatedDishes": ["fried-rice", "coconut-rice", "ofada-rice"],
-      "imageSrc": "https://i.pinimg.com/736x/23/94/56/2394566f30f1e1fae6c88296a3ab04ec.jpg"
+      "imageSrc": "https://i.pinimg.com/736x/41/a0/66/41a066b8175488f49eb8544b74a2b603.jpg"
     },
     
     {
@@ -414,7 +414,7 @@
           "description": "Serving Banga soup in a traditional clay pot or deep bowl, emphasizing its rich color and texture, often with starch served alongside.",
           "steps": ["Ladle the Banga soup into a rustic clay pot or a deep, dark-colored bowl.", "Ensure pieces of meat and fish are prominent.", "Garnish with fresh scent leaves or a sprinkle of dried pepper.", "Serve with starch (usi/starch, eba, or pounded yam) on the side, perhaps in a complementary smaller bowl.", "A drizzle of fresh palm oil can enhance the visual appeal."],
           "tips": ["The deep orange-red color of the soup should be the star.", "Contrast the soup with a light-colored starch.", "Authentic serving ware adds to the experience."],
-          "imageSrc": "https://placehold.co/400x300/EEEEEE/000000?text=Rustic+Banga",
+          "imageSrc": "https://i.pinimg.com/736x/7d/7c/f1/7d7cf1e5471aa4b23d9dc4b251de5d15.jpg",
           "techniqueType": "traditional"
         },
         {
@@ -423,12 +423,12 @@
           "description": "A modern presentation where the soup is served in a wide bowl with the starch and protein arranged artfully as a centerpiece.",
           "steps": ["Use a wide, shallow bowl.", "Pour a generous amount of Banga soup as the base.", "Place a neatly molded portion of starch (e.g., a small dome of usi) slightly off-center.", "Arrange choice pieces of fish and meat around the starch, partially submerged in the soup.", "Garnish with a sprig of fresh herbs or thinly sliced peppers.", "Ensure the vibrant color of the soup is visible."],
           "tips": ["Focus on a clean presentation with distinct elements.", "The arrangement should look inviting and balanced.", "Use contrasting colors for garnishes if possible."],
-          "imageSrc": "https://placehold.co/400x300/EEEEEE/000000?text=Island+Style+Banga",
+          "imageSrc": "https://i.pinimg.com/736x/dc/b4/69/dcb4699e594e3f2bfc939fa80cf19d61.jpg",
           "techniqueType": "modern"
         }
       ],
       "relatedDishes": ["ofe-nsala", "ogbono-soup", "black-soup"],
-      "imageSrc": "https://placehold.co/600x400/CCCCCC/000000?text=Banga+Soup"
+      "imageSrc": "https://i.pinimg.com/736x/6a/fb/9d/6afb9d9e8b73571bcb5a2548b03e9b24.jpg"
     },
     {
       "id": "ogbono-soup",
