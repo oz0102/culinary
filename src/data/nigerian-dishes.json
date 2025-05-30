@@ -35,7 +35,7 @@
             "Use a warm plate to keep food hot longer",
             "Consider color contrast between rice, protein, and garnish"
           ],
-          "imageSrc": "https://placehold.co/400x300/EEEEEE/000000?text=Classic+Elevation",
+          "imageSrc": "https://i.pinimg.com/736x/99/c3/8d/99c38d66192d74f6c7a71615df72be16.jpg",
           "techniqueType": "landscape"
         },
         {
@@ -55,7 +55,7 @@
             "Maintain clean edges around each component",
             "Consider the plate as a canvas with intentional negative space"
           ],
-          "imageSrc": "https://placehold.co/400x300/EEEEEE/000000?text=Deconstructed+Jollof",
+          "imageSrc": "https://i.pinimg.com/736x/54/35/c9/5435c9f6b3bc1624fa932a9e3bb4a8de.jpg",
           "techniqueType": "freeform"
         },
         {
@@ -75,13 +75,14 @@
             "Perfect each element's execution",
             "Use precise, intentional placement"
           ],
-          "imageSrc": "https://placehold.co/400x300/EEEEEE/000000?text=Modern+Minimalist+Jollof",
+          "imageSrc": "https://i.pinimg.com/736x/c0/12/48/c01248a0c0e294c6a8899479d93ed7a2.jpg",
           "techniqueType": "nordic"
         }
       ],
       "relatedDishes": ["fried-rice", "coconut-rice", "ofada-rice"],
-      "imageSrc": "https://placehold.co/600x400/CCCCCC/000000?text=Jollof+Rice"
+      "imageSrc": "https://i.pinimg.com/736x/23/94/56/2394566f30f1e1fae6c88296a3ab04ec.jpg"
     },
+    
     {
       "id": "egusi-soup",
       "name": "Egusi Soup",
@@ -118,7 +119,7 @@
             "Create contrast between the yellow egusi and green vegetables",
             "Consider temperature when serving - the bowl should be warm"
           ],
-          "imageSrc": "https://placehold.co/400x300/EEEEEE/000000?text=Bathing+Technique+Egusi",
+          "imageSrc": "https://i.pinimg.com/736x/43/cf/bd/43cfbd9968915b26e9aa38964f390d1f.jpg",
           "techniqueType": "bathing"
         },
         {
@@ -138,13 +139,14 @@
             "Consider the size relationship between soup and side dish vessels",
             "Add a small wooden or horn spoon for authenticity"
           ],
-          "imageSrc": "https://placehold.co/400x300/EEEEEE/000000?text=Organic+Egusi",
+          "imageSrc": "https://i.pinimg.com/736x/d7/88/c7/d788c74d2e9f6455d4be13e4017f83ef.jpg",
           "techniqueType": "organic"
         }
       ],
       "relatedDishes": ["okra-soup", "ogbono-soup", "efo-riro"],
-      "imageSrc": "https://placehold.co/600x400/CCCCCC/000000?text=Egusi+Soup"
+      "imageSrc": "https://i.pinimg.com/736x/2f/40/1e/2f401e41f3cb51929d8c6fdcaa1f007c.jpg"
     },
+    
     {
       "id": "suya",
       "name": "Suya",
@@ -178,7 +180,7 @@
             "Create color contrast with the garnishes",
             "Consider removing skewers before serving for easier eating"
           ],
-          "imageSrc": "https://placehold.co/400x300/EEEEEE/000000?text=Landscape+Suya",
+          "imageSrc": "https://i.pinimg.com/736x/44/8b/00/448b00e3931fc194d4f244d0f7813ef6.jpg",
           "techniqueType": "landscape"
         },
         {
@@ -198,13 +200,14 @@
             "Use the rule of thirds for visual balance",
             "Consider height variation for visual interest"
           ],
-          "imageSrc": "https://placehold.co/400x300/EEEEEE/000000?text=Freeform+Suya",
+          "imageSrc": "https://i.pinimg.com/736x/e0/d9/6b/e0d96b0cfc9e27645b84d84eb4433167.jpg",
           "techniqueType": "freeform"
         }
       ],
       "relatedDishes": ["asun", "kilishi", "tsire"],
-      "imageSrc": "https://placehold.co/600x400/CCCCCC/000000?text=Suya"
-    },
+      "imageSrc": "https://i.pinimg.com/736x/7f/2c/f5/7f2cf53b8e61ab5188c2b3d2991c77d5.jpg"
+    }
+    ,
     {
       "id": "pounded-yam-efo-riro",
       "name": "Pounded Yam and Efo Riro",
@@ -241,7 +244,7 @@
             "Create a clear boundary between yam and stew",
             "Consider the bowl color to enhance visual appeal"
           ],
-          "imageSrc": "https://placehold.co/400x300/EEEEEE/000000?text=Super+Bowl+Efo+Riro",
+          "imageSrc": "https://i.pinimg.com/736x/32/9f/bf/329fbf29cc69fe604e7b5a5ec2cf2f3d.jpg",
           "techniqueType": "superbowl"
         },
         {
@@ -261,13 +264,14 @@
             "The visible rim of stew creates anticipation",
             "Consider adding a small piece of meat or fish as a visual cue"
           ],
-          "imageSrc": "https://placehold.co/400x300/EEEEEE/000000?text=Hide+Seek+Efo+Riro",
+          "imageSrc": "https://i.pinimg.com/736x/4d/96/1d/4d961db84f2ed9879c9a8d024d4d3e9c.jpg",
           "techniqueType": "hideandseek"
         }
       ],
       "relatedDishes": ["amala-ewedu", "eba-egusi", "fufu-okra-soup"],
-      "imageSrc": "https://placehold.co/600x400/CCCCCC/000000?text=Pounded+Yam+Efo+Riro"
+      "imageSrc": "https://i.pinimg.com/736x/27/0d/f6/270df610d41a5be10bb81077c4d38a90.jpg"
     },
+    
     {
       "id": "moin-moin",
       "name": "Moin Moin",
@@ -302,7 +306,7 @@
             "Use negative space intentionally",
             "Consider the geometric relationship between elements"
           ],
-          "imageSrc": "https://placehold.co/400x300/EEEEEE/000000?text=Nordic+Moin+Moin",
+          "imageSrc": "https://i.pinimg.com/736x/6e/d6/99/6ed69939cd0762f67940352cc13c1247.jpg",
           "techniqueType": "nordic"
         },
         {
@@ -322,13 +326,14 @@
             "Consider using modern serving vessels like slate or glass",
             "Create contrast between traditional food and modern presentation"
           ],
-          "imageSrc": "https://placehold.co/400x300/EEEEEE/000000?text=Futuristic+Moin+Moin",
+          "imageSrc": "https://i.pinimg.com/736x/94/e0/f2/94e0f2489e2a6354d8ac8b12fd1b95cb.jpg",
           "techniqueType": "futuristic"
         }
       ],
       "relatedDishes": ["akara", "gbegiri", "ekuru"],
-      "imageSrc": "https://placehold.co/600x400/CCCCCC/000000?text=Moin+Moin"
+      "imageSrc": "https://i.pinimg.com/736x/b7/0d/84/b70d84d5a68d3b16401c79c798f03a4f.jpg"
     },
+    
     {
       "id": "afang-soup",
       "name": "Afang Soup",
@@ -336,30 +341,64 @@
       "subcategory": "soup",
       "description": "A rich and savory Nigerian soup made from Afang (Okazi) leaves and waterleaf, typically flavored with assorted meats, fish, and periwinkles.",
       "origin": "Efik and Ibibio people of Southern Nigeria",
-      "ingredients": ["Afang (Okazi) leaves", "Waterleaf", "Palm oil", "Assorted beef and goat meat", "Smoked fish", "Stockfish", "Periwinkles (optional)", "Crayfish", "Onions", "Peppers (Scotch bonnet)", "Seasoning cubes"],
+      "ingredients": [
+        "Afang (Okazi) leaves",
+        "Waterleaf",
+        "Palm oil",
+        "Assorted beef and goat meat",
+        "Smoked fish",
+        "Stockfish",
+        "Periwinkles (optional)",
+        "Crayfish",
+        "Onions",
+        "Peppers (Scotch bonnet)",
+        "Seasoning cubes"
+      ],
       "platingTechniques": [
         {
           "id": "afang-traditional-bowl",
           "name": "Traditional Earthenware Presentation",
           "description": "Serving Afang soup in a traditional earthenware or clay pot enhances its authenticity and visual appeal, often accompanied by a neatly wrapped swallow.",
-          "steps": ["Ladle a generous portion of Afang soup into a clean earthenware bowl.", "Ensure chunks of meat and fish are visible.", "Place a neatly molded portion of fufu, eba, or pounded yam beside the soup or in a separate, smaller traditional bowl.", "Garnish the soup with a sprinkle of ground crayfish or a fresh pepper.", "A small amount of palm oil can be drizzled on top for sheen."],
-          "tips": ["Warm the earthenware bowl before serving to keep the soup hot.", "The contrast between the dark green soup and the white/yellow swallow is visually appealing.", "Ensure the swallow is smooth and well-formed."],
-          "imageSrc": "https://placehold.co/400x300/EEEEEE/000000?text=Traditional+Afang",
+          "steps": [
+            "Ladle a generous portion of Afang soup into a clean earthenware bowl.",
+            "Ensure chunks of meat and fish are visible.",
+            "Place a neatly molded portion of fufu, eba, or pounded yam beside the soup or in a separate, smaller traditional bowl.",
+            "Garnish the soup with a sprinkle of ground crayfish or a fresh pepper.",
+            "A small amount of palm oil can be drizzled on top for sheen."
+          ],
+          "tips": [
+            "Warm the earthenware bowl before serving to keep the soup hot.",
+            "The contrast between the dark green soup and the white/yellow swallow is visually appealing.",
+            "Ensure the swallow is smooth and well-formed."
+          ],
+          "imageSrc": "https://i.pinimg.com/736x/f1/52/b6/f152b610b6e09a5caa40168c17e38c3b.jpg",
           "techniqueType": "traditional"
         },
         {
           "id": "afang-modern-swirl",
           "name": "Modern Green Swirl",
           "description": "A contemporary take, presenting the soup with a focus on its vibrant green color, often with a swirl or artistic placement of the swallow.",
-          "steps": ["Use a wide, shallow white bowl for contrast.", "Pour the Afang soup, ensuring it's not too watery.", "Create a small well in the center and place a quenelle or small, elegantly shaped mound of swallow.", "Alternatively, place the swallow to the side and create a gentle swirl in the soup with the back of a spoon before adding protein.", "Artistically arrange meat and fish pieces.", "Garnish with microgreens or a thinly sliced red chili for color pop."],
-          "tips": ["The consistency of the soup is key for this presentation.", "Use high-quality, brightly colored ingredients.", "Less is more; avoid overcrowding the plate."],
-          "imageSrc": "https://placehold.co/400x300/EEEEEE/000000?text=Modern+Afang",
+          "steps": [
+            "Use a wide, shallow white bowl for contrast.",
+            "Pour the Afang soup, ensuring it's not too watery.",
+            "Create a small well in the center and place a quenelle or small, elegantly shaped mound of swallow.",
+            "Alternatively, place the swallow to the side and create a gentle swirl in the soup with the back of a spoon before adding protein.",
+            "Artistically arrange meat and fish pieces.",
+            "Garnish with microgreens or a thinly sliced red chili for color pop."
+          ],
+          "tips": [
+            "The consistency of the soup is key for this presentation.",
+            "Use high-quality, brightly colored ingredients.",
+            "Less is more; avoid overcrowding the plate."
+          ],
+          "imageSrc": "https://i.pinimg.com/736x/3b/f6/79/3bf679edb7d7ae98b9b9db8cb176c841.jpg",
           "techniqueType": "modern"
         }
       ],
       "relatedDishes": ["edikang-ikong-soup", "efo-riro", "egusi-soup"],
-      "imageSrc": "https://placehold.co/600x400/CCCCCC/000000?text=Afang+Soup"
-    },
+      "imageSrc": "https://i.pinimg.com/736x/3b/38/ce/3b38cec8042db05b59f56bc17598a8e2.jpg"
+    }
+    ,
     {
       "id": "banga-soup",
       "name": "Banga Soup (Ofe Akwu)",
