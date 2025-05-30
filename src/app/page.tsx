@@ -22,7 +22,7 @@ export default function Home() {
       <section className="relative h-[70vh] flex items-center">
         <div className="absolute inset-0 z-0">
           <Image 
-            src="/images/hero-placeholder.jpg" 
+            src="/images/hero-image.jpg" 
             alt="Beautifully plated dishes" 
             fill 
             className="object-cover brightness-50"
@@ -145,7 +145,7 @@ export default function Home() {
           <Link href="/nigerian" className="group">
             <div className="relative aspect-video rounded-lg overflow-hidden mb-4">
               <Image 
-                src="/images/category-nigerian.jpg" 
+                src="/images/nigerian-placeholder.jpg" 
                 alt="Nigerian Dishes" 
                 fill 
                 className="object-cover group-hover:scale-105 transition-transform duration-300"
@@ -160,7 +160,7 @@ export default function Home() {
           <Link href="/continental" className="group">
             <div className="relative aspect-video rounded-lg overflow-hidden mb-4">
               <Image 
-                src="/images/category-continental.jpg" 
+                src="/images/continental-placeholder.jpg" 
                 alt="Continental Dishes" 
                 fill 
                 className="object-cover group-hover:scale-105 transition-transform duration-300"
@@ -175,7 +175,7 @@ export default function Home() {
           <Link href="/desserts" className="group">
             <div className="relative aspect-video rounded-lg overflow-hidden mb-4">
               <Image 
-                src="/images/category-desserts.jpg" 
+                src="/images/desserts-placeholder.jpg" 
                 alt="Desserts" 
                 fill 
                 className="object-cover group-hover:scale-105 transition-transform duration-300"
