@@ -30,7 +30,7 @@ export default function Techniques() {
           <Card className="technique-card">
             <div className="relative aspect-video mb-4 overflow-hidden rounded-md">
               <Image 
-                src="/technique-placeholder-1.jpg" 
+                src="/images/superbowl-technique.jpg" 
                 alt="Creating Height" 
                 fill 
                 className="object-cover"
@@ -54,7 +54,7 @@ export default function Techniques() {
           <Card className="technique-card">
             <div className="relative aspect-video mb-4 overflow-hidden rounded-md">
               <Image 
-                src="/technique-placeholder-2.jpg" 
+                src="/images/freeform-technique.jpg" 
                 alt="Horizontal Cutting" 
                 fill 
                 className="object-cover"
@@ -78,7 +78,7 @@ export default function Techniques() {
           <Card className="technique-card">
             <div className="relative aspect-video mb-4 overflow-hidden rounded-md">
               <Image 
-                src="/technique-placeholder-3.jpg" 
+                src="/images/organic-technique.jpg" 
                 alt="Texture Play" 
                 fill 
                 className="object-cover"
@@ -102,7 +102,7 @@ export default function Techniques() {
           <Card className="technique-card">
             <div className="relative aspect-video mb-4 overflow-hidden rounded-md">
               <Image 
-                src="/technique-placeholder-4.jpg" 
+                src="/images/landscape-technique.jpg" 
                 alt="Color Contrasting" 
                 fill 
                 className="object-cover"
@@ -126,7 +126,7 @@ export default function Techniques() {
           <Card className="technique-card">
             <div className="relative aspect-video mb-4 overflow-hidden rounded-md">
               <Image 
-                src="/technique-placeholder-5.jpg" 
+                src="/images/bathing-technique.jpg" 
                 alt="Thematic Presentation" 
                 fill 
                 className="object-cover"
@@ -150,7 +150,7 @@ export default function Techniques() {
           <Card className="technique-card">
             <div className="relative aspect-video mb-4 overflow-hidden rounded-md">
               <Image 
-                src="/technique-placeholder-6.jpg" 
+                src="/images/hideandseek-technique.jpg" 
                 alt="Plate Selection" 
                 fill 
                 className="object-cover"

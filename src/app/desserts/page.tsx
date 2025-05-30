@@ -7,6 +7,7 @@ import { Card } from '@/components/ui/card'
 import { Tabs, TabsContent, TabsList, TabsTrigger } from '@/components/ui/tabs'
 import Image from 'next/image'
 import Link from 'next/link'
+import { desserts } from '@/lib/data-utils'
 
 export default function Desserts() {
   return (
@@ -35,7 +36,7 @@ export default function Desserts() {
         
         <Tabs defaultValue="grid" className="w-full">
           <div className="flex justify-between items-center mb-6">
-            <h2 className="text-2xl font-semibold">30 Desserts</h2>
+            <h2 className="text-2xl font-semibold">{desserts.length} Desserts</h2>
             <TabsList>
               <TabsTrigger value="grid">Grid</TabsTrigger>
               <TabsTrigger value="list">List</TabsTrigger>
@@ -44,24 +45,23 @@ export default function Desserts() {
           
           <TabsContent value="grid" className="mt-0">
             <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6">
-              {/* Sample dish cards - these would be generated from data */}
-              {[1, 2, 3, 4, 5, 6, 7, 8].map((i) => (
-                <Card key={i} className="overflow-hidden">
+              {desserts.map((dish) => (
+                <Card key={dish.id} className="overflow-hidden">
                   <div className="relative aspect-square">
                     <Image 
-                      src={`/placeholder-${(i % 3) + 1}.jpg`}
-                      alt="Dessert"
+                      src={dish.imageSrc}
+                      alt={dish.name}
                       fill
                       className="object-cover"
                     />
                   </div>
                   <div className="p-4">
-                    <h3 className="font-semibold text-lg">Tiramisu</h3>
-                    <p className="text-sm text-muted-foreground mb-3">
-                      Italian coffee-flavored dessert with layers of mascarpone and ladyfingers
+                    <h3 className="font-semibold text-lg">{dish.name}</h3>
+                    <p className="text-sm text-muted-foreground mb-3 line-clamp-3">
+                      {dish.description}
                     </p>
                     <Button asChild size="sm">
-                      <Link href="/desserts/tiramisu">View Plating Ideas</Link>
+                      <Link href={`/desserts/${dish.id}`}>View Plating Ideas</Link>
                     </Button>
                   </div>
                 </Card>
@@ -71,25 +71,24 @@ export default function Desserts() {
           
           <TabsContent value="list" className="mt-0">
             <div className="space-y-4">
-              {/* Sample list items - these would be generated from data */}
-              {[1, 2, 3, 4, 5].map((i) => (
-                <Card key={i} className="overflow-hidden">
+              {desserts.map((dish) => (
+                <Card key={dish.id} className="overflow-hidden">
                   <div className="flex flex-col md:flex-row">
-                    <div className="relative w-full md:w-48 h-48">
+                    <div className="relative w-full md:w-48 h-48 md:h-auto"> {/* Adjusted height for list view consistency */}
                       <Image 
-                        src={`/placeholder-${(i % 3) + 1}.jpg`}
-                        alt="Dessert"
+                        src={dish.imageSrc}
+                        alt={dish.name}
                         fill
                         className="object-cover"
                       />
                     </div>
                     <div className="p-4 flex-1">
-                      <h3 className="font-semibold text-lg">Tiramisu</h3>
-                      <p className="text-sm text-muted-foreground mb-3">
-                        A classic Italian dessert made of ladyfingers dipped in coffee, layered with a whipped mixture of eggs, sugar, and mascarpone cheese, flavored with cocoa.
+                      <h3 className="font-semibold text-lg">{dish.name}</h3>
+                      <p className="text-sm text-muted-foreground mb-3 line-clamp-3"> {/* Added line-clamp for consistency */}
+                        {dish.description}
                       </p>
                       <Button asChild size="sm">
-                        <Link href="/desserts/tiramisu">View Plating Ideas</Link>
+                        <Link href={`/desserts/${dish.id}`}>View Plating Ideas</Link>
                       </Button>
                     </div>
                   </div>
