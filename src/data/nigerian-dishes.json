@@ -35,7 +35,7 @@
             "Use a warm plate to keep food hot longer",
             "Consider color contrast between rice, protein, and garnish"
           ],
-          "imageSrc": "/images/technique1-placeholder.jpg",
+          "imageSrc": "https://placehold.co/400x300/EEEEEE/000000?text=Classic+Elevation",
           "techniqueType": "landscape"
         },
         {
@@ -55,7 +55,7 @@
             "Maintain clean edges around each component",
             "Consider the plate as a canvas with intentional negative space"
           ],
-          "imageSrc": "/images/technique2-placeholder.jpg",
+          "imageSrc": "https://placehold.co/400x300/EEEEEE/000000?text=Deconstructed+Jollof",
           "techniqueType": "freeform"
         },
         {
@@ -75,12 +75,12 @@
             "Perfect each element's execution",
             "Use precise, intentional placement"
           ],
-          "imageSrc": "/images/technique3-placeholder.jpg",
+          "imageSrc": "https://placehold.co/400x300/EEEEEE/000000?text=Modern+Minimalist+Jollof",
           "techniqueType": "nordic"
         }
       ],
       "relatedDishes": ["fried-rice", "coconut-rice", "ofada-rice"],
-      "imageSrc": "/images/dish-detail-placeholder.jpg"
+      "imageSrc": "https://placehold.co/600x400/CCCCCC/000000?text=Jollof+Rice"
     },
     {
       "id": "egusi-soup",
@@ -118,7 +118,7 @@
             "Create contrast between the yellow egusi and green vegetables",
             "Consider temperature when serving - the bowl should be warm"
           ],
-          "imageSrc": "/images/bathing-technique.jpg",
+          "imageSrc": "https://placehold.co/400x300/EEEEEE/000000?text=Bathing+Technique+Egusi",
           "techniqueType": "bathing"
         },
         {
@@ -138,12 +138,12 @@
             "Consider the size relationship between soup and side dish vessels",
             "Add a small wooden or horn spoon for authenticity"
           ],
-          "imageSrc": "/images/organic-technique.jpg",
+          "imageSrc": "https://placehold.co/400x300/EEEEEE/000000?text=Organic+Egusi",
           "techniqueType": "organic"
         }
       ],
       "relatedDishes": ["okra-soup", "ogbono-soup", "efo-riro"],
-      "imageSrc": "/images/placeholder-1.jpg"
+      "imageSrc": "https://placehold.co/600x400/CCCCCC/000000?text=Egusi+Soup"
     },
     {
       "id": "suya",
@@ -178,7 +178,7 @@
             "Create color contrast with the garnishes",
             "Consider removing skewers before serving for easier eating"
           ],
-          "imageSrc": "/images/landscape-technique.jpg",
+          "imageSrc": "https://placehold.co/400x300/EEEEEE/000000?text=Landscape+Suya",
           "techniqueType": "landscape"
         },
         {
@@ -198,12 +198,12 @@
             "Use the rule of thirds for visual balance",
             "Consider height variation for visual interest"
           ],
-          "imageSrc": "/images/freeform-technique.jpg",
+          "imageSrc": "https://placehold.co/400x300/EEEEEE/000000?text=Freeform+Suya",
           "techniqueType": "freeform"
         }
       ],
       "relatedDishes": ["asun", "kilishi", "tsire"],
-      "imageSrc": "/images/placeholder-2.jpg"
+      "imageSrc": "https://placehold.co/600x400/CCCCCC/000000?text=Suya"
     },
     {
       "id": "pounded-yam-efo-riro",
@@ -241,7 +241,7 @@
             "Create a clear boundary between yam and stew",
             "Consider the bowl color to enhance visual appeal"
           ],
-          "imageSrc": "/images/superbowl-technique.jpg",
+          "imageSrc": "https://placehold.co/400x300/EEEEEE/000000?text=Super+Bowl+Efo+Riro",
           "techniqueType": "superbowl"
         },
         {
@@ -261,12 +261,12 @@
             "The visible rim of stew creates anticipation",
             "Consider adding a small piece of meat or fish as a visual cue"
           ],
-          "imageSrc": "/images/hideandseek-technique.jpg",
+          "imageSrc": "https://placehold.co/400x300/EEEEEE/000000?text=Hide+Seek+Efo+Riro",
           "techniqueType": "hideandseek"
         }
       ],
       "relatedDishes": ["amala-ewedu", "eba-egusi", "fufu-okra-soup"],
-      "imageSrc": "/images/placeholder-3.jpg"
+      "imageSrc": "https://placehold.co/600x400/CCCCCC/000000?text=Pounded+Yam+Efo+Riro"
     },
     {
       "id": "moin-moin",
@@ -302,7 +302,7 @@
             "Use negative space intentionally",
             "Consider the geometric relationship between elements"
           ],
-          "imageSrc": "/images/placeholder-1.jpg",
+          "imageSrc": "https://placehold.co/400x300/EEEEEE/000000?text=Nordic+Moin+Moin",
           "techniqueType": "nordic"
         },
         {
@@ -322,12 +322,198 @@
             "Consider using modern serving vessels like slate or glass",
             "Create contrast between traditional food and modern presentation"
           ],
-          "imageSrc": "/images/placeholder-2.jpg",
+          "imageSrc": "https://placehold.co/400x300/EEEEEE/000000?text=Futuristic+Moin+Moin",
           "techniqueType": "futuristic"
         }
       ],
       "relatedDishes": ["akara", "gbegiri", "ekuru"],
-      "imageSrc": "/images/placeholder-3.jpg"
+      "imageSrc": "https://placehold.co/600x400/CCCCCC/000000?text=Moin+Moin"
+    },
+    {
+      "id": "afang-soup",
+      "name": "Afang Soup",
+      "category": "nigerian",
+      "subcategory": "soup",
+      "description": "A rich and savory Nigerian soup made from Afang (Okazi) leaves and waterleaf, typically flavored with assorted meats, fish, and periwinkles.",
+      "origin": "Efik and Ibibio people of Southern Nigeria",
+      "ingredients": ["Afang (Okazi) leaves", "Waterleaf", "Palm oil", "Assorted beef and goat meat", "Smoked fish", "Stockfish", "Periwinkles (optional)", "Crayfish", "Onions", "Peppers (Scotch bonnet)", "Seasoning cubes"],
+      "platingTechniques": [
+        {
+          "id": "afang-traditional-bowl",
+          "name": "Traditional Earthenware Presentation",
+          "description": "Serving Afang soup in a traditional earthenware or clay pot enhances its authenticity and visual appeal, often accompanied by a neatly wrapped swallow.",
+          "steps": ["Ladle a generous portion of Afang soup into a clean earthenware bowl.", "Ensure chunks of meat and fish are visible.", "Place a neatly molded portion of fufu, eba, or pounded yam beside the soup or in a separate, smaller traditional bowl.", "Garnish the soup with a sprinkle of ground crayfish or a fresh pepper.", "A small amount of palm oil can be drizzled on top for sheen."],
+          "tips": ["Warm the earthenware bowl before serving to keep the soup hot.", "The contrast between the dark green soup and the white/yellow swallow is visually appealing.", "Ensure the swallow is smooth and well-formed."],
+          "imageSrc": "https://placehold.co/400x300/EEEEEE/000000?text=Traditional+Afang",
+          "techniqueType": "traditional"
+        },
+        {
+          "id": "afang-modern-swirl",
+          "name": "Modern Green Swirl",
+          "description": "A contemporary take, presenting the soup with a focus on its vibrant green color, often with a swirl or artistic placement of the swallow.",
+          "steps": ["Use a wide, shallow white bowl for contrast.", "Pour the Afang soup, ensuring it's not too watery.", "Create a small well in the center and place a quenelle or small, elegantly shaped mound of swallow.", "Alternatively, place the swallow to the side and create a gentle swirl in the soup with the back of a spoon before adding protein.", "Artistically arrange meat and fish pieces.", "Garnish with microgreens or a thinly sliced red chili for color pop."],
+          "tips": ["The consistency of the soup is key for this presentation.", "Use high-quality, brightly colored ingredients.", "Less is more; avoid overcrowding the plate."],
+          "imageSrc": "https://placehold.co/400x300/EEEEEE/000000?text=Modern+Afang",
+          "techniqueType": "modern"
+        }
+      ],
+      "relatedDishes": ["edikang-ikong-soup", "efo-riro", "egusi-soup"],
+      "imageSrc": "https://placehold.co/600x400/CCCCCC/000000?text=Afang+Soup"
+    },
+    {
+      "id": "banga-soup",
+      "name": "Banga Soup (Ofe Akwu)",
+      "category": "nigerian",
+      "subcategory": "soup",
+      "description": "A flavorful soup made from palm fruit extract, native spices, and a variety of meats and fish. It's popular in the Niger Delta region and among Igbo people.",
+      "origin": "Niger Delta and Eastern Nigeria",
+      "ingredients": ["Palm fruit (banga)", "Beef or assorted meat", "Fresh or smoked fish", "Banga spice mix (tyko, oburunbebe, etc.)", "Beletete (dried banga leaves)", "Onions", "Ground crayfish", "Chili pepper", "Salt"],
+      "platingTechniques": [
+        {
+          "id": "banga-rustic-charm",
+          "name": "Rustic Charm Presentation",
+          "description": "Serving Banga soup in a traditional clay pot or deep bowl, emphasizing its rich color and texture, often with starch served alongside.",
+          "steps": ["Ladle the Banga soup into a rustic clay pot or a deep, dark-colored bowl.", "Ensure pieces of meat and fish are prominent.", "Garnish with fresh scent leaves or a sprinkle of dried pepper.", "Serve with starch (usi/starch, eba, or pounded yam) on the side, perhaps in a complementary smaller bowl.", "A drizzle of fresh palm oil can enhance the visual appeal."],
+          "tips": ["The deep orange-red color of the soup should be the star.", "Contrast the soup with a light-colored starch.", "Authentic serving ware adds to the experience."],
+          "imageSrc": "https://placehold.co/400x300/EEEEEE/000000?text=Rustic+Banga",
+          "techniqueType": "traditional"
+        },
+        {
+          "id": "banga-island-style",
+          "name": "Island Style Centerpiece",
+          "description": "A modern presentation where the soup is served in a wide bowl with the starch and protein arranged artfully as a centerpiece.",
+          "steps": ["Use a wide, shallow bowl.", "Pour a generous amount of Banga soup as the base.", "Place a neatly molded portion of starch (e.g., a small dome of usi) slightly off-center.", "Arrange choice pieces of fish and meat around the starch, partially submerged in the soup.", "Garnish with a sprig of fresh herbs or thinly sliced peppers.", "Ensure the vibrant color of the soup is visible."],
+          "tips": ["Focus on a clean presentation with distinct elements.", "The arrangement should look inviting and balanced.", "Use contrasting colors for garnishes if possible."],
+          "imageSrc": "https://placehold.co/400x300/EEEEEE/000000?text=Island+Style+Banga",
+          "techniqueType": "modern"
+        }
+      ],
+      "relatedDishes": ["ofe-nsala", "ogbono-soup", "black-soup"],
+      "imageSrc": "https://placehold.co/600x400/CCCCCC/000000?text=Banga+Soup"
+    },
+    {
+      "id": "ogbono-soup",
+      "name": "Ogbono Soup",
+      "category": "nigerian",
+      "subcategory": "soup",
+      "description": "A draw soup made from ground ogbono (wild mango) seeds, known for its mucilaginous texture. It's typically cooked with palm oil, vegetables, and assorted proteins.",
+      "origin": "Southern and Eastern Nigeria",
+      "ingredients": ["Ground ogbono seeds", "Palm oil", "Leafy vegetables (uziza, spinach, or bitter leaf)", "Assorted meat (beef, goat, shaki)", "Smoked fish or stockfish", "Crayfish", "Onions", "Peppers", "Seasoning cubes"],
+      "platingTechniques": [
+        {
+          "id": "ogbono-classic-draw",
+          "name": "Classic Draw Presentation",
+          "description": "Highlighting the characteristic draw of Ogbono soup, served traditionally with a swallow.",
+          "steps": ["Serve the Ogbono soup in a traditional soup bowl.", "Ensure the soup has a good consistency, showcasing its 'draw'.", "Place large, appealing pieces of meat and fish within the soup.", "Accompany with a neatly wrapped portion of fufu, eba, or pounded yam.", "A swirl of palm oil on top can add to the visual appeal."],
+          "tips": ["The 'draw' is a key feature, so ensure the soup is not too thick or watery.", "Warm bowls help maintain temperature.", "The contrast of the dark soup with a light-colored swallow is classic."],
+          "imageSrc": "https://placehold.co/400x300/EEEEEE/000000?text=Classic+Ogbono",
+          "techniqueType": "traditional"
+        },
+        {
+          "id": "ogbono-layered-reveal",
+          "name": "Layered Reveal in Glass",
+          "description": "A modern approach using a clear glass bowl to showcase the layers and textures within the Ogbono soup.",
+          "steps": ["Select a clear, heat-resistant glass bowl.", "Carefully ladle the Ogbono soup into the bowl.", "Strategically place pieces of meat, fish, and visible greens so they are visible through the glass.", "Garnish the top with a fresh herb or a contrasting sprinkle of crayfish.", "Serve with a small, elegant portion of swallow on a side plate."],
+          "tips": ["This technique works best if the soup has distinct elements like whole periwinkles or chunks of fish.", "Ensure the glass is impeccably clean.", "The visual appeal comes from seeing the ingredients suspended in the soup."],
+          "imageSrc": "https://placehold.co/400x300/EEEEEE/000000?text=Layered+Ogbono",
+          "techniqueType": "modern"
+        }
+      ],
+      "relatedDishes": ["okro-soup", "ewedu-soup", "nsala-soup"],
+      "imageSrc": "https://placehold.co/600x400/CCCCCC/000000?text=Ogbono+Soup"
+    },
+    {
+      "id": "nsala-soup",
+      "name": "Nsala Soup (White Soup)",
+      "category": "nigerian",
+      "subcategory": "soup",
+      "description": "A light, peppery soup made without palm oil, typically thickened with yam or cocoyam. It's often cooked with catfish and aromatic spices.",
+      "origin": "Eastern Nigeria (Igbo)",
+      "ingredients": ["Catfish or other fresh fish", "Yam or cocoyam (for thickening)", "Uziza leaves and seeds", "Utazi leaves", "Ehuru (calabash nutmeg)", "Uda", "Scotch bonnet peppers", "Onions", "Crayfish", "Seasoning cubes"],
+      "platingTechniques": [
+        {
+          "id": "nsala-clear-broth",
+          "name": "Clear Broth Elegance",
+          "description": "Presenting Nsala soup to highlight its light color and the freshness of the ingredients, especially the fish.",
+          "steps": ["Serve in a white or light-colored soup bowl to emphasize the 'white' nature of the soup.", "Place a whole piece of catfish or large chunks attractively in the center.", "Ensure the broth is clear and inviting, with visible spices and herbs.", "Garnish with fresh uziza or utazi leaves.", "Serve with pounded yam on the side."],
+          "tips": ["The clarity of the soup is important.", "Freshness of ingredients is key to the visual and taste appeal.", "Avoid overcrowding the bowl."],
+          "imageSrc": "https://placehold.co/400x300/EEEEEE/000000?text=Clear+Nsala",
+          "techniqueType": "elegant"
+        },
+        {
+          "id": "nsala-family-style-pot",
+          "name": "Family-Style Pot Presentation",
+          "description": "Serving Nsala soup in a traditional cooking pot or a rustic serving dish, emphasizing a communal and hearty feel.",
+          "steps": ["Serve directly from a clean, attractive cooking pot (e.g., clay or cast iron) or transfer to a large, rustic serving bowl.", "Ensure generous portions of fish are visible.", "Scatter fresh herbs over the top.", "Provide individual bowls and a large portion of pounded yam for sharing."],
+          "tips": ["This style is great for gatherings.", "The aroma from the pot adds to the experience.", "Ensure the serving pot is presentable."],
+          "imageSrc": "https://placehold.co/400x300/EEEEEE/000000?text=Family+Style+Nsala",
+          "techniqueType": "communal"
+        }
+      ],
+      "relatedDishes": ["pepper-soup", "ukodo", "banga-soup"],
+      "imageSrc": "https://placehold.co/600x400/CCCCCC/000000?text=Nsala+Soup"
+    },
+    {
+      "id": "edikang-ikong-soup",
+      "name": "Edikang Ikong Soup",
+      "category": "nigerian",
+      "subcategory": "soup",
+      "description": "A nutritious and savory vegetable soup from the Efik and Ibibio people, made primarily with pumpkin leaves (ugwu) and waterleaf, along with assorted meats and fish.",
+      "origin": "Cross River and Akwa Ibom States (Southern Nigeria)",
+      "ingredients": ["Pumpkin leaves (ugwu)", "Waterleaf (gbure)", "Palm oil", "Assorted meat (beef, goat, shaki)", "Smoked fish", "Stockfish", "Periwinkles", "Crayfish", "Onions", "Peppers", "Seasoning cubes"],
+      "platingTechniques": [
+        {
+          "id": "edikang-vibrant-green",
+          "name": "Vibrant Green Mound",
+          "description": "Showcasing the rich green color of the Edikang Ikong, often served with a contrasting swallow.",
+          "steps": ["Ladle a generous portion of the soup into a wide bowl.", "Mound the soup slightly in the center to give it height.", "Ensure pieces of meat, fish, and periwinkles are visible throughout.", "Serve with a neatly shaped portion of fufu, eba, or pounded yam beside it.", "A light drizzle of palm oil can enhance the sheen."],
+          "tips": ["The vibrant green of the vegetables should be preserved during cooking.", "Use a white or light-colored bowl for maximum color contrast.", "Don't overcook the vegetables."],
+          "imageSrc": "https://placehold.co/400x300/EEEEEE/000000?text=Vibrant+Edikang+Ikong",
+          "techniqueType": "mound"
+        },
+        {
+          "id": "edikang-deconstructed-elements",
+          "name": "Deconstructed Vegetable Medley",
+          "description": "A modern take where the soup's components are artfully arranged to highlight individual textures and colors.",
+          "steps": ["Use a large, flat plate.", "Place a neat base of the Edikang Ikong soup.", "Artistically arrange larger pieces of protein (e.g., grilled fish, large prawns) on top or beside the soup.", "Garnish with fresh, contrasting microgreens or edible flowers.", "A small, elegant quenelle of swallow can be placed on the side."],
+          "tips": ["Focus on clean lines and intentional placement.", "Each element should be perfectly cooked and visually appealing.", "This style suits a fine-dining context."],
+          "imageSrc": "https://placehold.co/400x300/EEEEEE/000000?text=Deconstructed+Edikang",
+          "techniqueType": "modern"
+        }
+      ],
+      "relatedDishes": ["afang-soup", "efo-riro", "vegetable-soup"],
+      "imageSrc": "https://placehold.co/600x400/CCCCCC/000000?text=Edikang+Ikong"
+    },
+    {
+      "id": "pepper-soup-goat",
+      "name": "Goat Meat Pepper Soup",
+      "category": "nigerian",
+      "subcategory": "soup",
+      "description": "A light, intensely flavored, and spicy broth soup made with goat meat and a blend of traditional aromatic spices. It's known for its medicinal and warming properties.",
+      "origin": "Nigeria (widely popular)",
+      "ingredients": ["Goat meat", "Pepper soup spice mix (e.g., ehuru, uda, uziza seeds, ataiko)", "Scotch bonnet peppers or chili powder", "Onions", "Garlic", "Ginger", "Scent leaves (efirin/nchanwu)", "Salt", "Seasoning cubes"],
+      "platingTechniques": [
+        {
+          "id": "peppersoup-rustic-mug",
+          "name": "Rustic Mug Comfort",
+          "description": "Serving pepper soup in a rustic mug or deep bowl to emphasize its comforting and aromatic nature.",
+          "steps": ["Ladle the hot pepper soup into a large, deep mug or a rustic earthenware bowl.", "Ensure plenty of goat meat pieces are included.", "Garnish generously with freshly chopped scent leaves or uziza leaves.", "Serve with a side of boiled yam, plantain, or agidi/eko if desired."],
+          "tips": ["The aroma is a key part of the experience, so serve piping hot.", "A generous garnish of fresh herbs enhances both flavor and visual appeal.", "A simple, unpretentious presentation works best."],
+          "imageSrc": "https://placehold.co/400x300/EEEEEE/000000?text=Rustic+Pepper+Soup",
+          "techniqueType": "comfort"
+        },
+        {
+          "id": "peppersoup-clear-focus",
+          "name": "Clear Broth Focus",
+          "description": "A refined presentation in a clear bowl or wide dish that highlights the clarity of the broth and the quality of the ingredients.",
+          "steps": ["Use a clear glass bowl or a wide, shallow white bowl.", "Carefully pour the pepper soup, ensuring the broth remains clear.", "Arrange the goat meat pieces attractively.", "Float a few whole spices or fresh pepper slices for visual interest.", "Garnish with a single, perfect sprig of scent leaf."],
+          "tips": ["Strain the broth if necessary for extra clarity.", "Focus on high-quality, visually appealing pieces of meat.", "Minimalist presentation allows the soup to shine."],
+          "imageSrc": "https://placehold.co/400x300/EEEEEE/000000?text=Clear+Pepper+Soup",
+          "techniqueType": "refined"
+        }
+      ],
+      "relatedDishes": ["fish-pepper-soup", "chicken-pepper-soup", "nsala-soup"],
+      "imageSrc": "https://placehold.co/600x400/CCCCCC/000000?text=Goat+Pepper+Soup"
     }
-  ]
+]
 }
