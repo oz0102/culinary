@@ -58,12 +58,16 @@
           "techniqueType": "hideandseek"
         }
       ],
-      "relatedDishes": ["panna-cotta", "zabaglione", "affogato"],
+      "relatedDishes": [
+        "panna-cotta",
+        "zabaglione",
+        "affogato"
+      ],
       "imageSrc": "/images/dish-detail-placeholder.jpg"
     },
     {
       "id": "creme-brulee",
-      "name": "Crème Brûlée",
+      "name": "Cr\u00e8me Br\u00fbl\u00e9e",
       "category": "dessert",
       "subcategory": "french",
       "description": "A rich custard base topped with a layer of hardened caramelized sugar. Known for its contrasting textures of smooth custard and crisp caramel top, it's a classic French dessert that has become popular worldwide.",
@@ -79,14 +83,14 @@
         {
           "id": "nordic-look",
           "name": "Nordic Look",
-          "description": "This minimalist technique presents crème brûlée with clean lines, natural elements, and a focus on the dessert's natural beauty.",
+          "description": "This minimalist technique presents cr\u00e8me br\u00fbl\u00e9e with clean lines, natural elements, and a focus on the dessert's natural beauty.",
           "steps": [
-            "Serve the crème brûlée in its traditional ramekin on a simple, preferably white plate.",
+            "Serve the cr\u00e8me br\u00fbl\u00e9e in its traditional ramekin on a simple, preferably white plate.",
             "Place the ramekin slightly off-center.",
-            "Add a small quenelle of whipped cream or crème fraîche on the plate.",
+            "Add a small quenelle of whipped cream or cr\u00e8me fra\u00eeche on the plate.",
             "Place 2-3 fresh berries or a single edible flower for color contrast.",
             "Add a thin, crisp tuile or shortbread cookie standing vertically.",
-            "Finish with a light dusting of powdered sugar on the plate, not on the brûlée."
+            "Finish with a light dusting of powdered sugar on the plate, not on the br\u00fbl\u00e9e."
           ],
           "tips": [
             "The caramelized top should be perfectly even and unbroken",
@@ -99,10 +103,10 @@
         {
           "id": "futuristic",
           "name": "Futuristic Technique",
-          "description": "This contemporary approach presents crème brûlée in unexpected vessels with modern elements and techniques.",
+          "description": "This contemporary approach presents cr\u00e8me br\u00fbl\u00e9e in unexpected vessels with modern elements and techniques.",
           "steps": [
             "Use a non-traditional vessel like a flat slate plate or shallow glass dish.",
-            "Create a perfect cylinder of crème brûlée using a ring mold.",
+            "Create a perfect cylinder of cr\u00e8me br\u00fbl\u00e9e using a ring mold.",
             "Caramelize the top with precision, perhaps in a geometric pattern.",
             "Add elements of molecular gastronomy, such as vanilla foam or fruit caviar.",
             "Create a sugar spiral or cage as a dramatic garnish.",
@@ -117,7 +121,11 @@
           "techniqueType": "futuristic"
         }
       ],
-      "relatedDishes": ["flan", "custard", "pot-de-creme"],
+      "relatedDishes": [
+        "flan",
+        "custard",
+        "pot-de-creme"
+      ],
       "imageSrc": "/images/placeholder-3.jpg"
     },
     {
@@ -144,8 +152,8 @@
           "steps": [
             "Select a rectangular or oval plate with ample space.",
             "Place a slice of apple tart off-center on the plate.",
-            "Create a line of caramel sauce or crème anglaise parallel to the tart.",
-            "Add small quenelles of vanilla ice cream or crème fraîche at one end.",
+            "Create a line of caramel sauce or cr\u00e8me anglaise parallel to the tart.",
+            "Add small quenelles of vanilla ice cream or cr\u00e8me fra\u00eeche at one end.",
             "Place thin apple chips or tuile cookies for height and texture.",
             "Finish with fresh mint leaves or edible flowers at strategic points."
           ],
@@ -159,7 +167,7 @@
         },
         {
           "id": "super-bowl",
-          "name": "À la Mode Bowl Presentation",
+          "name": "\u00c0 la Mode Bowl Presentation",
           "description": "This technique presents apple tart in a bowl with ice cream and sauce, creating a comforting yet elegant dessert experience.",
           "steps": [
             "Select a wide, shallow bowl in white or a neutral color.",
@@ -178,7 +186,11 @@
           "techniqueType": "superbowl"
         }
       ],
-      "relatedDishes": ["tarte-tatin", "apple-galette", "apple-strudel"],
+      "relatedDishes": [
+        "tarte-tatin",
+        "apple-galette",
+        "apple-strudel"
+      ],
       "imageSrc": "/images/placeholder-1.jpg"
     },
     {
@@ -239,7 +251,11 @@
           "techniqueType": "freeform"
         }
       ],
-      "relatedDishes": ["souffle", "molten-cake", "chocolate-nemesis"],
+      "relatedDishes": [
+        "souffle",
+        "molten-cake",
+        "chocolate-nemesis"
+      ],
       "imageSrc": "/images/placeholder-2.jpg"
     },
     {
@@ -299,8 +315,333 @@
           "techniqueType": "nordic"
         }
       ],
-      "relatedDishes": ["bavarian-cream", "blancmange", "buttermilk-pudding"],
+      "relatedDishes": [
+        "bavarian-cream",
+        "blancmange",
+        "buttermilk-pudding"
+      ],
       "imageSrc": "/images/placeholder-1.jpg"
+    },
+    {
+      "id": "nigerian-shuku-shuku",
+      "name": "Nigerian Shuku Shuku",
+      "category": "dessert",
+      "subcategory": "nigerian",
+      "description": "Typically arranged in a pyramid or mound on a platter, often in paper cupcake liners for individual servings. Shuku Shuku are small, golden-brown balls made from coconut.",
+      "origin": "Nigeria",
+      "ingredients": [
+        "Coconut flakes or chaff",
+        "Egg yolks",
+        "Sugar",
+        "Bread crumbs (optional)"
+      ],
+      "platingTechniques": [
+        {
+          "id": "nigerian-shuku-shuku-standard-presentation",
+          "name": "Standard Nigerian Shuku Shuku Presentation",
+          "description": "Typically arranged in a pyramid or mound on a platter, often in paper cupcake liners for individual servings. Shuku Shuku are small, golden-brown balls made from coconut.",
+          "imageSrc": "https://www.allnigerianrecipes.com/wp-content/uploads/2019/03/nigerian-shuku-shuku.jpg",
+          "techniqueType": "traditional"
+        }
+      ],
+      "relatedDishes": [],
+      "imageSrc": "https://www.allnigerianrecipes.com/wp-content/uploads/2019/03/nigerian-shuku-shuku.jpg"
+    },
+    {
+      "id": "nigerian-puff-puff",
+      "name": "Nigerian Puff Puff",
+      "category": "dessert",
+      "subcategory": "nigerian",
+      "description": "Served warm in a bowl or on a platter, often dusted with powdered sugar or accompanied by a dipping sauce. Puff Puffs are spongy, deep-fried spherical snacks.",
+      "origin": "Nigeria",
+      "ingredients": [
+        "Flour",
+        "Yeast",
+        "Sugar",
+        "Nutmeg",
+        "Salt",
+        "Water",
+        "Vegetable oil"
+      ],
+      "platingTechniques": [
+        {
+          "id": "nigerian-puff-puff-standard-presentation",
+          "name": "Standard Nigerian Puff Puff Presentation",
+          "description": "Served warm in a bowl or on a platter, often dusted with powdered sugar or accompanied by a dipping sauce. Puff Puffs are spongy, deep-fried spherical snacks.",
+          "imageSrc": "https://www.allnigerianrecipes.com/wp-content/uploads/2020/03/nigerian-puff-puff.jpg",
+          "techniqueType": "traditional"
+        }
+      ],
+      "relatedDishes": [],
+      "imageSrc": "https://www.allnigerianrecipes.com/wp-content/uploads/2020/03/nigerian-puff-puff.jpg"
+    },
+    {
+      "id": "nigerian-chin-chin",
+      "name": "Nigerian Chin Chin",
+      "category": "dessert",
+      "subcategory": "nigerian",
+      "description": "Served in a bowl or container, often in large quantities for snacking. Chin Chin are crunchy, deep-fried snacks, typically small and square or rectangular.",
+      "origin": "Nigeria",
+      "ingredients": [
+        "Flour",
+        "Margarine",
+        "Sugar",
+        "Nutmeg",
+        "Milk",
+        "Eggs (optional)",
+        "Vegetable oil"
+      ],
+      "platingTechniques": [
+        {
+          "id": "nigerian-chin-chin-standard-presentation",
+          "name": "Standard Nigerian Chin Chin Presentation",
+          "description": "Served in a bowl or container, often in large quantities for snacking. Chin Chin are crunchy, deep-fried snacks, typically small and square or rectangular.",
+          "imageSrc": "https://www.allnigerianrecipes.com/wp-content/uploads/2012/10/chin-chin.jpg",
+          "techniqueType": "traditional"
+        }
+      ],
+      "relatedDishes": [],
+      "imageSrc": "https://www.allnigerianrecipes.com/wp-content/uploads/2012/10/chin-chin.jpg"
+    },
+    {
+      "id": "kankaran-tsamiya-frozen-tamarind-juice",
+      "name": "Kankaran Tsamiya (Frozen Tamarind Juice)",
+      "category": "dessert",
+      "subcategory": "nigerian",
+      "description": "Served frozen in small cups or popsicle molds. Kankaran Tsamiya is a traditional Northern Nigerian frozen treat made from tamarind.",
+      "origin": "Nigeria",
+      "ingredients": [
+        "Tamarind",
+        "Water",
+        "Sugar (optional)"
+      ],
+      "platingTechniques": [
+        {
+          "id": "kankaran-tsamiya-frozen-tamarind-juice-standard-presentation",
+          "name": "Standard Kankaran Tsamiya (Frozen Tamarind Juice) Presentation",
+          "description": "Served frozen in small cups or popsicle molds. Kankaran Tsamiya is a traditional Northern Nigerian frozen treat made from tamarind.",
+          "imageSrc": "https://www.allnigerianrecipes.com/wp-content/uploads/2021/07/kankaran-tsamiya.jpg",
+          "techniqueType": "traditional"
+        }
+      ],
+      "relatedDishes": [],
+      "imageSrc": "https://www.allnigerianrecipes.com/wp-content/uploads/2021/07/kankaran-tsamiya.jpg"
+    },
+    {
+      "id": "fruit-skewers-fruit-kebab",
+      "name": "Fruit Skewers (Fruit Kebab)",
+      "category": "dessert",
+      "subcategory": "nigerian",
+      "description": "Fruits arranged colorfully on skewers, often presented standing up in a vase or laid out on a platter. A refreshing and healthy dessert option.",
+      "origin": "Nigeria",
+      "ingredients": [
+        "Assorted fruits (e.g., Pineapple, Pawpaw, Kiwi, Apple, Pear)",
+        "Honey (optional)",
+        "Coconut chaff (optional)"
+      ],
+      "platingTechniques": [
+        {
+          "id": "fruit-skewers-fruit-kebab-standard-presentation",
+          "name": "Standard Fruit Skewers (Fruit Kebab) Presentation",
+          "description": "Fruits arranged colorfully on skewers, often presented standing up in a vase or laid out on a platter. A refreshing and healthy dessert option.",
+          "imageSrc": "https://www.allnigerianrecipes.com/wp-content/uploads/2019/03/fruit-skewers.jpg",
+          "techniqueType": "traditional"
+        }
+      ],
+      "relatedDishes": [],
+      "imageSrc": "https://www.allnigerianrecipes.com/wp-content/uploads/2019/03/fruit-skewers.jpg"
+    },
+    {
+      "id": "plantain-chips",
+      "name": "Plantain Chips",
+      "category": "dessert",
+      "subcategory": "nigerian",
+      "description": "Served in a bowl or bag as a snack. Plantain chips are thin, crispy slices of fried plantain, either ripe or unripe.",
+      "origin": "Nigeria",
+      "ingredients": [
+        "Plantain (ripe or unripe)",
+        "Salt",
+        "Vegetable oil"
+      ],
+      "platingTechniques": [
+        {
+          "id": "plantain-chips-standard-presentation",
+          "name": "Standard Plantain Chips Presentation",
+          "description": "Served in a bowl or bag as a snack. Plantain chips are thin, crispy slices of fried plantain, either ripe or unripe.",
+          "imageSrc": "https://www.allnigerianrecipes.com/wp-content/uploads/2013/09/plantain-chips-recipe.jpg",
+          "techniqueType": "traditional"
+        }
+      ],
+      "relatedDishes": [],
+      "imageSrc": "https://www.allnigerianrecipes.com/wp-content/uploads/2013/09/plantain-chips-recipe.jpg"
+    },
+    {
+      "id": "coated-peanuts-peanut-burger",
+      "name": "Coated Peanuts (Peanut Burger)",
+      "category": "dessert",
+      "subcategory": "nigerian",
+      "description": "Served in a bowl or container for easy snacking. Coated peanuts are roasted peanuts covered in a crunchy, seasoned batter.",
+      "origin": "Nigeria",
+      "ingredients": [
+        "Roasted peanuts",
+        "Flour (all-purpose, corn, rice)",
+        "Icing sugar",
+        "Egg",
+        "Seasonings (e.g., salt, pepper, cinnamon)"
+      ],
+      "platingTechniques": [
+        {
+          "id": "coated-peanuts-peanut-burger-standard-presentation",
+          "name": "Standard Coated Peanuts (Peanut Burger) Presentation",
+          "description": "Served in a bowl or container for easy snacking. Coated peanuts are roasted peanuts covered in a crunchy, seasoned batter.",
+          "imageSrc": "https://www.allnigerianrecipes.com/wp-content/uploads/2019/07/nigerian-coated-peanuts.jpg",
+          "techniqueType": "traditional"
+        }
+      ],
+      "relatedDishes": [],
+      "imageSrc": "https://www.allnigerianrecipes.com/wp-content/uploads/2019/07/nigerian-coated-peanuts.jpg"
+    },
+    {
+      "id": "super-creamy-banana-ice-cream",
+      "name": "Super Creamy Banana Ice Cream",
+      "category": "dessert",
+      "subcategory": "nigerian",
+      "description": "Scooped into bowls or cones, can be garnished with fruit slices or nuts. A simple homemade ice cream made primarily from bananas.",
+      "origin": "Nigeria",
+      "ingredients": [
+        "Ripe bananas",
+        "Peak Milk (evaporated milk)",
+        "Whole milk",
+        "Vanilla extract"
+      ],
+      "platingTechniques": [
+        {
+          "id": "super-creamy-banana-ice-cream-standard-presentation",
+          "name": "Standard Super Creamy Banana Ice Cream Presentation",
+          "description": "Scooped into bowls or cones, can be garnished with fruit slices or nuts. A simple homemade ice cream made primarily from bananas.",
+          "imageSrc": "https://www.allnigerianrecipes.com/wp-content/uploads/2020/06/banana-ice-cream.jpg",
+          "techniqueType": "traditional"
+        }
+      ],
+      "relatedDishes": [],
+      "imageSrc": "https://www.allnigerianrecipes.com/wp-content/uploads/2020/06/banana-ice-cream.jpg"
+    },
+    {
+      "id": "nigerian-buns-rock-buns",
+      "name": "Nigerian Buns (Rock Buns)",
+      "category": "dessert",
+      "subcategory": "nigerian",
+      "description": "Piled onto a plate or into a basket, often served warm. Nigerian Buns are harder and less oily than Puff Puff, with a dense texture.",
+      "origin": "Nigeria",
+      "ingredients": [
+        "Flour",
+        "Baking powder",
+        "Evaporated milk or powdered milk",
+        "Sugar",
+        "Salt",
+        "Nutmeg",
+        "Water",
+        "Vegetable oil"
+      ],
+      "platingTechniques": [
+        {
+          "id": "nigerian-buns-rock-buns-standard-presentation",
+          "name": "Standard Nigerian Buns (Rock Buns) Presentation",
+          "description": "Piled onto a plate or into a basket, often served warm. Nigerian Buns are harder and less oily than Puff Puff, with a dense texture.",
+          "imageSrc": "https://sisijemimah.com/wp-content/uploads/2015/10/DSC_0009_750x500.jpg",
+          "techniqueType": "traditional"
+        }
+      ],
+      "relatedDishes": [],
+      "imageSrc": "https://sisijemimah.com/wp-content/uploads/2015/10/DSC_0009_750x500.jpg"
+    },
+    {
+      "id": "victoria-sponge-cake",
+      "name": "Victoria Sponge Cake",
+      "category": "dessert",
+      "subcategory": "nigerian",
+      "description": "Presented as a whole cake on a stand or sliced and served on individual plates, often with a dusting of powdered sugar. A classic two-layer cake with jam and cream filling.",
+      "origin": "Nigeria",
+      "ingredients": [
+        "Self-raising flour",
+        "Butter",
+        "Caster sugar",
+        "Eggs",
+        "Vanilla extract",
+        "Milk",
+        "Double/Heavy cream",
+        "Jam"
+      ],
+      "platingTechniques": [
+        {
+          "id": "victoria-sponge-cake-standard-presentation",
+          "name": "Standard Victoria Sponge Cake Presentation",
+          "description": "Presented as a whole cake on a stand or sliced and served on individual plates, often with a dusting of powdered sugar. A classic two-layer cake with jam and cream filling.",
+          "imageSrc": "https://sisijemimah.com/wp-content/uploads/2016/05/image-1024x683.jpeg",
+          "techniqueType": "traditional"
+        }
+      ],
+      "relatedDishes": [],
+      "imageSrc": "https://sisijemimah.com/wp-content/uploads/2016/05/image-1024x683.jpeg"
+    },
+    {
+      "id": "easy-homemade-banana-bread-banana-cake",
+      "name": "Easy Homemade Banana Bread (Banana Cake)",
+      "category": "dessert",
+      "subcategory": "nigerian",
+      "description": "Served as slices on a plate, can be accompanied by butter or a dollop of cream. A moist and soft bread made from mashed ripe bananas.",
+      "origin": "Nigeria",
+      "ingredients": [
+        "Plain flour",
+        "Brown sugar",
+        "Butter",
+        "Eggs",
+        "Overripe bananas",
+        "Baking soda",
+        "Vanilla extract",
+        "Salt"
+      ],
+      "platingTechniques": [
+        {
+          "id": "easy-homemade-banana-bread-banana-cake-standard-presentation",
+          "name": "Standard Easy Homemade Banana Bread (Banana Cake) Presentation",
+          "description": "Served as slices on a plate, can be accompanied by butter or a dollop of cream. A moist and soft bread made from mashed ripe bananas.",
+          "imageSrc": "https://sisijemimah.com/wp-content/uploads/2015/08/image_thumb60.png",
+          "techniqueType": "traditional"
+        }
+      ],
+      "relatedDishes": [],
+      "imageSrc": "https://sisijemimah.com/wp-content/uploads/2015/08/image_thumb60.png"
+    },
+    {
+      "id": "coconut-chocolate-chip-cookies",
+      "name": "Coconut Chocolate Chip Cookies",
+      "category": "dessert",
+      "subcategory": "nigerian",
+      "description": "Stacked on a plate or arranged in a cookie jar. These cookies combine the flavors of coconut and chocolate chips.",
+      "origin": "Nigeria",
+      "ingredients": [
+        "Butter",
+        "Granulated sugar",
+        "All-purpose flour",
+        "Baking soda",
+        "Flaked or desiccated coconut",
+        "Chocolate chips",
+        "Coconut or Vanilla extract",
+        "Egg",
+        "Salt"
+      ],
+      "platingTechniques": [
+        {
+          "id": "coconut-chocolate-chip-cookies-standard-presentation",
+          "name": "Standard Coconut Chocolate Chip Cookies Presentation",
+          "description": "Stacked on a plate or arranged in a cookie jar. These cookies combine the flavors of coconut and chocolate chips.",
+          "imageSrc": "https://sisijemimah.com/wp-content/uploads/2020/05/Coconut-chocolate-chip-cookies-720x540.jpg",
+          "techniqueType": "traditional"
+        }
+      ],
+      "relatedDishes": [],
+      "imageSrc": "https://sisijemimah.com/wp-content/uploads/2020/05/Coconut-chocolate-chip-cookies-720x540.jpg"
     }
   ]
 }
