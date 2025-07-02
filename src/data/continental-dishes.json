@@ -17,7 +17,7 @@
         "Chicken",
         "Plantain (ripe)",
         "Chicken stock",
-        "Vegetable oil",
+        "Vegetable oil", 
         "Spices (curry powder, thyme, nutmeg)",
         "Saffron"
       ],
@@ -38,7 +38,7 @@
             "The plantain puree should be smooth and easily pipeable.",
             "Consider the color contrast between the red rice and yellow puree."
           ],
-          "imageSrc": "https://i.pinimg.com/originals/a1/b2/c3/a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6.jpg",
+          "imageSrc": "https://res.cloudinary.com/dlfezpyw8/image/upload/v1749506541/Elevated_Jollof_rice_with_grilled_chicken_and_plantain_puree_ufamsi.png",
           "techniqueType": "stacking"
         },
         {
@@ -57,12 +57,12 @@
             "Use different textures to create interest.",
             "Ensure each element is seasoned well individually."
           ],
-          "imageSrc": "https://i.pinimg.com/originals/f9/d8/e7/f9d8e7a2b5c6d4e3f1a0b8c9d7e6f0b1.jpg",
+          "imageSrc": "https://res.cloudinary.com/dlfezpyw8/image/upload/v1749506590/Jollof_rice_with_grilled_chicken_and_plantain_puree_n8bev6.png",
           "techniqueType": "deconstructed"
         }
       ],
       "relatedDishes": ["fried-rice-continental", "yam-pottage-modern"],
-      "imageSrc": "https://i.pinimg.com/originals/b0/c1/d2/b0c1d2e3f4a5b6c7d8e9f0a1b2c3d4e5.jpg"
+      "imageSrc": "https://res.cloudinary.com/dlfezpyw8/image/upload/v1749506445/0c7a31ba-17ac-4717-951e-b0dca40e5390_hi7chi.jpg"
     },
     {
       "id": "peppered-snails-garlic-butter",
@@ -100,7 +100,7 @@
             "The garlic butter sauce should be flavorful and not too greasy.",
             "The crostini should be crispy and provide a textural contrast."
           ],
-          "imageSrc": "https://i.pinimg.com/originals/c8/d9/e0/c8d9e0a1b2f3c4d5e6f7a8b9d0e1f2c3.jpg",
+          "imageSrc": "https://res.cloudinary.com/dlfezpyw8/image/upload/v1749506705/Peppered_Snails_with_Garlic_Butter_and_Herb_Crostini_Arrangement_a944cm.png",
           "techniqueType": "radial"
         },
         {
@@ -118,12 +118,12 @@
             "Ensure the snails are securely threaded.",
             "The dipping sauce should be served warm."
           ],
-          "imageSrc": "https://i.pinimg.com/originals/3a/b2/c1/3ab2c1d4e5f6g7h8i9j0k1l2m3n4o5p6.jpg",
+          "imageSrc": "https://res.cloudinary.com/dlfezpyw8/image/upload/v1749506693/Skewered_Peppered_Snails_with_Garlic_Butter_and_Herb_Crostini_t0kn1s.png",
           "techniqueType": "skewers"
         }
       ],
       "relatedDishes": ["garlic-prawns", "escargots-bourguignonne"],
-      "imageSrc": "https://i.pinimg.com/originals/e7/f0/a2/e7f0a2b1c3d4e5f6g7h8i9j0k1l2m3n4o5p6.jpg"
+      "imageSrc": "https://res.cloudinary.com/dlfezpyw8/image/upload/v1749506695/Peppered_Snails_with_Garlic_Butter_and_Herb_Crostini_hiahjs.png"
     },
     {
       "id": "yam-pottage-with-smoked-fish-veloute",
@@ -186,7 +186,7 @@
         }
       ],
       "relatedDishes": ["potato-gratin", "cream-of-vegetable-soup"],
-      "imageSrc": "https://i.pinimg.com/originals/f0/e9/b8/f0e9b8a1c3d4e5f6g7h8i9j0k1l2m3n4o5p6.jpg"
+      "imageSrc": "https://res.cloudinary.com/dlfezpyw8/image/upload/v1749506705/Yam_Pottage_with_Smoked_Fish_Velout%C3%A9_and_Crispy_Onions_a2foye.png"
     },
     {
       "id": "grilled-catfish-sauce-vierge",
@@ -251,7 +251,7 @@
         }
       ],
       "relatedDishes": ["baked-salmon-dill-sauce", "pan-seared-tilapia-lemon-caper-sauce"],
-      "imageSrc": "https://i.pinimg.com/originals/c1/d3/e0/c1d3e0a1b2f3c4d5e6f7a8b9d0e1f2c3.jpg"
+      "imageSrc": "https://res.cloudinary.com/dlfezpyw8/image/upload/v1749506565/IMG-20250605-WA0016_u7twjw.jpg"
     },
     {
       "id": "plantain-fritters-spicy-tomato-dip",
@@ -289,7 +289,7 @@
             "The dipping sauce should be flavorful and have a good consistency.",
             "Consider the color contrast between the golden fritters and the red sauce."
           ],
-          "imageSrc": "https://i.pinimg.com/originals/d6/e1/b9/d6e1b9a8c7d2e3f4a5b6c7d8e9f0a1b2c3d4e5.jpg",
+          "imageSrc": "https://res.cloudinary.com/dlfezpyw8/image/upload/v1749506616/Plantain_Fritters_with_Spicy_Tomato_and_Basil_Dip_gldndp.png",
           "techniqueType": "scattered"
         },
         {
@@ -311,7 +311,7 @@
         }
       ],
       "relatedDishes": ["apple-fritters", "beignets"],
-      "imageSrc": "https://i.pinimg.com/originals/f3/a0/c9/f3a0c9d2e3f4a5b6c7d8e9f0a1b2c3d4e5.jpg"
+      "imageSrc": "https://res.cloudinary.com/dlfezpyw8/image/upload/v1749506482/01_Plantain_Fritters_with_Spicy_Tomato_and_Basil_Dip_r2if7k.png"
     },
     {
       "id": "ofada-rice-sauce-modern",
@@ -371,7 +371,7 @@
         }
       ],
       "relatedDishes": ["local-rice-stew", "native-jollof"],
-      "imageSrc": "https://i.pinimg.com/originals/b2/f5/d3/b2f5d3e2f3a5b6c7d8e9f0a1b2c3d4e5.jpg"
+      "imageSrc": "https://res.cloudinary.com/dlfezpyw8/image/upload/v1749506581/Ofada_Rice_with_Ayamase_and_Smoked_Fish_Garnish_wkoapr.png"
     },
     {
       "id": "moi-moi-with-prawns-parsley-oil",
@@ -475,7 +475,7 @@
             "The chicken should be cooked through and have a nice char from the Suya spices.",
             "The grilled vegetables add color and flavor."
           ],
-          "imageSrc": "https://i.pinimg.com/originals/f4/a7/c1/f4a7c1d2e3f4a5b6c7d8e9f0a1b2c3d4e5.jpg",
+          "imageSrc": "https://res.cloudinary.com/dlfezpyw8/image/upload/v1749506595/Suya_Spiced_Grilled_Chicken_with_Herbed_Couscous_uneozq.png",
           "techniqueType": "layered"
         },
         {
@@ -493,12 +493,12 @@
             "The couscous mold should be neat and hold its shape.",
             "The Suya spice garnish enhances the visual appeal and flavor."
           ],
-          "imageSrc": "https://i.pinimg.com/originals/a7/b6/d0/a7b6d0e2f3a5b6c7d8e9f0a1b2c3d4e5.jpg",
+          "imageSrc": "https://res.cloudinary.com/dlfezpyw8/image/upload/v1749506589/Suya_Spiced_Grilled-Chicken_with_Herbed_Couscous_qgqjwb.png",
           "techniqueType": "skewers"
         }
       ],
       "relatedDishes": ["moroccan-tagine-couscous", "grilled-lamb-rosemary-potatoes"],
-      "imageSrc": "https://i.pinimg.com/originals/b9/c8/e6/b9c8e6a1b2f3c4d5e6f7a8b9d0e1f2c3.jpg"
+      "imageSrc": "https://res.cloudinary.com/dlfezpyw8/image/upload/v1749506706/Suya_Spiced_Grilled_Chicken_with_Herbed_Couscous_vuxdrz.png"
     },
     {
       "id": "kunun-zaki-panna-cotta",
@@ -549,7 +549,7 @@
             "The fruit coulis should have a smooth and pourable consistency.",
             "Consider the color contrast between the panna cotta and the fruit coulis."
           ],
-          "imageSrc": "https://i.pinimg.com/originals/e5/f8/c2/e5f8c2a1b2f3c4d5e6f7a8b9d0e1f2c3.jpg",
+          "imageSrc": "https://res.cloudinary.com/dlfezpyw8/image/upload/v1749506680/Panna_cotta_pxrvv8.jpg",
           "techniqueType": "unmolded"
         }
       ],
@@ -647,7 +647,7 @@
             "The chocolate ganache should be smooth and glossy.",
             "The salted caramel drizzle adds a contrasting flavor and visual appeal."
           ],
-          "imageSrc": "https://i.pinimg.com/originals/d5/e8/b3/d5e8b3a1b2f3c4d5e6f7a8b9d0e1f2c3.jpg",
+          "imageSrc": "https://res.cloudinary.com/dlfezpyw8/image/upload/v1749506613/__Puff_Puff_with_Chocolate_Ganache_and_Salted_Caramel_Drizzle_af2umu.png",
           "techniqueType": "stacking"
         },
         {
@@ -665,12 +665,12 @@
             "Ensure the dipping sauces are served warm.",
             "Provide napkins as this can be a messy but delicious treat."
           ],
-          "imageSrc": "https://i.pinimg.com/originals/e8/f9/c4/e8f9c4a1b2f3c4d5e6f7a8b9d0e1f2c3.jpg",
+          "imageSrc": "https://res.cloudinary.com/dlfezpyw8/image/upload/v1749511761/Puff_Puff_caramel_dips_jrlml9.png",
           "techniqueType": "skewers"
         }
       ],
       "relatedDishes": ["doughnuts", "beignets"],
-      "imageSrc": "https://i.pinimg.com/originals/f1/a0/d7/f1a0d7a1b2f3c4d5e6f7a8b9d0e1f2c3.jpg"
+      "imageSrc": "https://res.cloudinary.com/dlfezpyw8/image/upload/v1749511761/20250610_0026_Puff_Puff_Delight_simple_compose_01jxbg57x0exerjcwfr5s2h3f0_hfoq15.png"
     }
   ]
 }

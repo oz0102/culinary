@@ -34,7 +34,7 @@
             "Create contrast between the white cream and dark cocoa",
             "Consider using a squeeze bottle for precise cream placement"
           ],
-          "imageSrc": "/images/freeform-technique.jpg",
+          "imageSrc": "https://res.cloudinary.com/dlfezpyw8/image/upload/v1749506698/A_Taste_of_Italian_Elegance_fodjqf.jpg",
           "techniqueType": "freeform"
         },
         {
@@ -54,7 +54,7 @@
             "Chill the dessert thoroughly to ensure layers remain distinct",
             "The transparency of the vessel is key to showcasing the layers"
           ],
-          "imageSrc": "/images/hideandseek-technique.jpg",
+          "imageSrc": "https://res.cloudinary.com/dlfezpyw8/image/upload/v1749506695/Tiramisu_in_a_glass_cup_b0godq.jpg",
           "techniqueType": "hideandseek"
         }
       ],
@@ -63,7 +63,7 @@
         "zabaglione",
         "affogato"
       ],
-      "imageSrc": "/images/dish-detail-placeholder.jpg"
+      "imageSrc": "https://res.cloudinary.com/dlfezpyw8/image/upload/v1749506600/Easy_Tiramisu_Recipe___Ingredients___1_cup_heavy_cream_cold___8_oz_225g_mascarpone_cheese_room_temperature____cup_granulated_sugar__1_tsp_vanilla_extract__1_cups_brewed_espresso_cooled___2_tbs_eckws6.jpg"
     },
     {
       "id": "creme-brulee",
@@ -97,7 +97,7 @@
             "Use negative space intentionally",
             "Consider the geometric relationship between elements"
           ],
-          "imageSrc": "/images/placeholder-1.jpg",
+          "imageSrc": "https://res.cloudinary.com/dlfezpyw8/image/upload/v1749506445/Creme_Brulee_v3c6mm.jpg",
           "techniqueType": "nordic"
         },
         {
@@ -117,7 +117,7 @@
             "Consider using modern tools like culinary torches for tableside finishing",
             "Create contrast between traditional flavors and modern presentation"
           ],
-          "imageSrc": "/images/placeholder-2.jpg",
+          "imageSrc": "https://res.cloudinary.com/dlfezpyw8/image/upload/v1749506563/Futuristic_creme_brulee_hhbpud.jpg",
           "techniqueType": "futuristic"
         }
       ],
@@ -126,7 +126,7 @@
         "custard",
         "pot-de-creme"
       ],
-      "imageSrc": "/images/placeholder-3.jpg"
+      "imageSrc": "https://res.cloudinary.com/dlfezpyw8/image/upload/v1749506525/Creme-brulee_ilq9mj.png"
     },
     {
       "id": "apple-tart",
@@ -162,7 +162,7 @@
             "Create a natural flow from one end of the plate to the other",
             "Consider the color contrast between the golden tart, white cream, and sauce"
           ],
-          "imageSrc": "/images/landscape-technique.jpg",
+          "imageSrc": "https://res.cloudinary.com/dlfezpyw8/image/upload/v1749506494/Apple_tart_Landscape_technique_ve2w8f.jpg",
           "techniqueType": "landscape"
         },
         {
@@ -182,7 +182,7 @@
             "The bowl should be room temperature, not chilled",
             "Consider adding height with a thin caramel decoration or tuile"
           ],
-          "imageSrc": "/images/superbowl-technique.jpg",
+          "imageSrc": "https://res.cloudinary.com/dlfezpyw8/image/upload/v1749506532/Apple_tart_a_la_bowl_ivuuwx.png",
           "techniqueType": "superbowl"
         }
       ],
@@ -191,7 +191,7 @@
         "apple-galette",
         "apple-strudel"
       ],
-      "imageSrc": "/images/placeholder-1.jpg"
+      "imageSrc": "https://res.cloudinary.com/dlfezpyw8/image/upload/v1749506534/Apple_tart_landsape_q4zufv.png"
     },
     {
       "id": "chocolate-fondant",
@@ -227,7 +227,7 @@
             "The reveal of the flowing center is the key moment",
             "Consider using a contrasting plate color to highlight the chocolate"
           ],
-          "imageSrc": "/images/hideandseek-technique.jpg",
+          "imageSrc": "https://res.cloudinary.com/dlfezpyw8/image/upload/v1749506535/Dramatic_Fondant_Reveal_zpalfp.png",
           "techniqueType": "hideandseek"
         },
         {
@@ -256,7 +256,7 @@
         "molten-cake",
         "chocolate-nemesis"
       ],
-      "imageSrc": "/images/placeholder-2.jpg"
+      "imageSrc": "https://res.cloudinary.com/dlfezpyw8/image/upload/v1749506508/download_3_sxxhi5.jpg"
     },
     {
       "id": "panna-cotta",
@@ -291,7 +291,7 @@
             "Choose a sauce color that contrasts with the white panna cotta",
             "Consider the depth of the sauce - it should partially submerge the base"
           ],
-          "imageSrc": "/images/bathing-technique.jpg",
+          "imageSrc": "https://res.cloudinary.com/dlfezpyw8/image/upload/v1749506579/Panna_cotta_lkqyhl.jpg",
           "techniqueType": "bathing"
         },
         {
@@ -320,7 +320,7 @@
         "blancmange",
         "buttermilk-pudding"
       ],
-      "imageSrc": "/images/placeholder-1.jpg"
+      "imageSrc": "https://res.cloudinary.com/dlfezpyw8/image/upload/v1749506680/Panna_cotta_pxrvv8.jpg"
     },
     {
       "id": "nigerian-shuku-shuku",
@@ -340,12 +340,12 @@
           "id": "nigerian-shuku-shuku-standard-presentation",
           "name": "Standard Nigerian Shuku Shuku Presentation",
           "description": "Typically arranged in a pyramid or mound on a platter, often in paper cupcake liners for individual servings. Shuku Shuku are small, golden-brown balls made from coconut.",
-          "imageSrc": "https://www.allnigerianrecipes.com/wp-content/uploads/2019/03/nigerian-shuku-shuku.jpg",
+          "imageSrc": "https://res.cloudinary.com/dlfezpyw8/image/upload/v1749578614/20250610_1900_Nigerian_Shuku_Shuku_Treat_simple_compose_01jxdfxqaaea184ghba71vn6hv_ianhem.png",
           "techniqueType": "traditional"
         }
       ],
       "relatedDishes": [],
-      "imageSrc": "https://www.allnigerianrecipes.com/wp-content/uploads/2019/03/nigerian-shuku-shuku.jpg"
+      "imageSrc": "https://res.cloudinary.com/dlfezpyw8/image/upload/v1749578617/20250610_1900_Nigerian_Shuku_Shuku_Treat_simple_compose_01jxdfxqa9fg6bx9v6cbx0gexb_sapbbo.png"
     },
     {
       "id": "nigerian-puff-puff",
@@ -368,12 +368,12 @@
           "id": "nigerian-puff-puff-standard-presentation",
           "name": "Standard Nigerian Puff Puff Presentation",
           "description": "Served warm in a bowl or on a platter, often dusted with powdered sugar or accompanied by a dipping sauce. Puff Puffs are spongy, deep-fried spherical snacks.",
-          "imageSrc": "https://i.pinimg.com/736x/bb/4f/b6/bb4fb6a758874fbff35285878e0b032c.jpg",
+          "imageSrc": "https://res.cloudinary.com/dlfezpyw8/image/upload/v1749578881/20250610_1907_Nigerian_Puff_Puff_simple_compose_01jxdg9zzme51r5adgmchaxbnv_o8oil3.png",
           "techniqueType": "traditional"
         }
       ],
       "relatedDishes": [],
-      "imageSrc": "https://www.allnigerianrecipes.com/wp-content/uploads/2020/03/nigerian-puff-puff.jpg"
+      "imageSrc": "https://res.cloudinary.com/dlfezpyw8/image/upload/v1749578879/Nigerian_Puff_Puff_Recipe_-_How_to_Make_Puff_Puff_bla0dq.jpg"
     },
     {
       "id": "nigerian-chin-chin",
@@ -396,12 +396,12 @@
           "id": "nigerian-chin-chin-standard-presentation",
           "name": "Standard Nigerian Chin Chin Presentation",
           "description": "Served in a bowl or container, often in large quantities for snacking. Chin Chin are crunchy, deep-fried snacks, typically small and square or rectangular.",
-          "imageSrc": "https://i.pinimg.com/736x/b9/eb/77/b9eb77362bbf560d0ff8678d160c7955.jpg",
+          "imageSrc": "https://res.cloudinary.com/dlfezpyw8/image/upload/v1749578996/9c8c6352-3065-4af3-9bbd-4d84323d09c6_q5bxdg.jpg",
           "techniqueType": "traditional"
         }
       ],
       "relatedDishes": [],
-      "imageSrc": "https://i.pinimg.com/736x/b9/eb/77/b9eb77362bbf560d0ff8678d160c7955.jpg"
+      "imageSrc": "https://res.cloudinary.com/dlfezpyw8/image/upload/v1749578996/d47e0962-d430-44f9-91f2-fb9fa5bdbd36_esbezi.jpg"
     },
     {
       "id": "kankaran-tsamiya-frozen-tamarind-juice",
@@ -420,12 +420,12 @@
           "id": "kankaran-tsamiya-frozen-tamarind-juice-standard-presentation",
           "name": "Standard Kankaran Tsamiya (Frozen Tamarind Juice) Presentation",
           "description": "Served frozen in small cups or popsicle molds. Kankaran Tsamiya is a traditional Northern Nigerian frozen treat made from tamarind.",
-          "imageSrc": "https://www.allnigerianrecipes.com/wp-content/uploads/2021/07/kankaran-tsamiya.jpg",
+          "imageSrc": "https://res.cloudinary.com/dlfezpyw8/image/upload/v1749579410/Easy_Yummy_Cookery__Tamarind_Juice_f2eivs.jpg",
           "techniqueType": "traditional"
         }
       ],
       "relatedDishes": [],
-      "imageSrc": "https://www.allnigerianrecipes.com/wp-content/uploads/2021/07/kankaran-tsamiya.jpg"
+      "imageSrc": "https://res.cloudinary.com/dlfezpyw8/image/upload/v1749579410/How_to_Make_Tamarind_Juice_on_Green_Tea_Olives_lovyhv.jpg"
     },
     {
       "id": "fruit-skewers-fruit-kebab",
@@ -444,12 +444,12 @@
           "id": "fruit-skewers-fruit-kebab-standard-presentation",
           "name": "Standard Fruit Skewers (Fruit Kebab) Presentation",
           "description": "Fruits arranged colorfully on skewers, often presented standing up in a vase or laid out on a platter. A refreshing and healthy dessert option.",
-          "imageSrc": "https://www.allnigerianrecipes.com/wp-content/uploads/2019/03/fruit-skewers.jpg",
+          "imageSrc": "https://res.cloudinary.com/dlfezpyw8/image/upload/v1749579565/Fruit_Skewers_or_kebabs_are_made_with_fresh_fruit_vwttia.jpg",
           "techniqueType": "traditional"
         }
       ],
       "relatedDishes": [],
-      "imageSrc": "https://www.allnigerianrecipes.com/wp-content/uploads/2019/03/fruit-skewers.jpg"
+      "imageSrc": "https://res.cloudinary.com/dlfezpyw8/image/upload/v1749579565/15_Best_Fruit_Skewers_for_Parties_-_The_Mega_Mom_ncww94.jpg"
     },
     {
       "id": "plantain-chips",
@@ -468,12 +468,12 @@
           "id": "plantain-chips-standard-presentation",
           "name": "Standard Plantain Chips Presentation",
           "description": "Served in a bowl or bag as a snack. Plantain chips are thin, crispy slices of fried plantain, either ripe or unripe.",
-          "imageSrc": "https://www.allnigerianrecipes.com/wp-content/uploads/2013/09/plantain-chips-recipe.jpg",
+          "imageSrc": "https://res.cloudinary.com/dlfezpyw8/image/upload/v1749579664/These_Baked_Plantain_Chips_are_a_healthy_and_eqryai.jpg",
           "techniqueType": "traditional"
         }
       ],
       "relatedDishes": [],
-      "imageSrc": "https://www.allnigerianrecipes.com/wp-content/uploads/2013/09/plantain-chips-recipe.jpg"
+      "imageSrc": "https://res.cloudinary.com/dlfezpyw8/image/upload/v1749579664/51ede901-d4fe-49d4-99cf-0e4e35808948_ciahdx.jpg"
     },
     {
       "id": "coated-peanuts-peanut-burger",
@@ -494,12 +494,12 @@
           "id": "coated-peanuts-peanut-burger-standard-presentation",
           "name": "Standard Coated Peanuts (Peanut Burger) Presentation",
           "description": "Served in a bowl or container for easy snacking. Coated peanuts are roasted peanuts covered in a crunchy, seasoned batter.",
-          "imageSrc": "https://www.allnigerianrecipes.com/wp-content/uploads/2019/07/nigerian-coated-peanuts.jpg",
+          "imageSrc": "https://res.cloudinary.com/dlfezpyw8/image/upload/v1749579894/Perfect_COATED_PEANUT_without_Egg___Crunchy_and_Tasty_COATED_GROUNDNUT_Recipe_prrof5.jpg",
           "techniqueType": "traditional"
         }
       ],
       "relatedDishes": [],
-      "imageSrc": "https://www.allnigerianrecipes.com/wp-content/uploads/2019/07/nigerian-coated-peanuts.jpg"
+      "imageSrc": "https://res.cloudinary.com/dlfezpyw8/image/upload/v1749579894/b650ebd0-8cc2-4bab-b9b5-bb277faadc65_m38umf.jpg"
     },
     {
       "id": "super-creamy-banana-ice-cream",
@@ -519,12 +519,12 @@
           "id": "super-creamy-banana-ice-cream-standard-presentation",
           "name": "Standard Super Creamy Banana Ice Cream Presentation",
           "description": "Scooped into bowls or cones, can be garnished with fruit slices or nuts. A simple homemade ice cream made primarily from bananas.",
-          "imageSrc": "https://www.allnigerianrecipes.com/wp-content/uploads/2020/06/banana-ice-cream.jpg",
+          "imageSrc": "https://res.cloudinary.com/dlfezpyw8/image/upload/v1749580041/Ninja_Creami_Banana_Sweet_Cream_Ice_Cream_Recipe_uy7b2t.jpg",
           "techniqueType": "traditional"
         }
       ],
       "relatedDishes": [],
-      "imageSrc": "https://www.allnigerianrecipes.com/wp-content/uploads/2020/06/banana-ice-cream.jpg"
+      "imageSrc": "https://res.cloudinary.com/dlfezpyw8/image/upload/v1749580042/Homemade_Banana_Ice_Cream_glbizq.jpg"
     },
     {
       "id": "nigerian-buns-rock-buns",
@@ -548,12 +548,12 @@
           "id": "nigerian-buns-rock-buns-standard-presentation",
           "name": "Standard Nigerian Buns (Rock Buns) Presentation",
           "description": "Piled onto a plate or into a basket, often served warm. Nigerian Buns are harder and less oily than Puff Puff, with a dense texture.",
-          "imageSrc": "https://sisijemimah.com/wp-content/uploads/2015/10/DSC_0009_750x500.jpg",
+          "imageSrc": "https://res.cloudinary.com/dlfezpyw8/image/upload/v1749580192/e23cb544-96e4-481c-8001-5b50b010b1db_r9hase.jpg",
           "techniqueType": "traditional"
         }
       ],
       "relatedDishes": [],
-      "imageSrc": "https://sisijemimah.com/wp-content/uploads/2015/10/DSC_0009_750x500.jpg"
+      "imageSrc": "https://res.cloudinary.com/dlfezpyw8/image/upload/v1749580191/How_to_Make_Nigerian_Buns___Easy_Crunchy_Buns_Recipe_uo1eko.jpg"
     },
     {
       "id": "victoria-sponge-cake",
@@ -577,12 +577,12 @@
           "id": "victoria-sponge-cake-standard-presentation",
           "name": "Standard Victoria Sponge Cake Presentation",
           "description": "Presented as a whole cake on a stand or sliced and served on individual plates, often with a dusting of powdered sugar. A classic two-layer cake with jam and cream filling.",
-          "imageSrc": "https://sisijemimah.com/wp-content/uploads/2016/05/image-1024x683.jpeg",
+          "imageSrc": "https://res.cloudinary.com/dlfezpyw8/image/upload/v1749580432/00a9485b-a0c4-48ca-b149-07866e04017a_ycwnpp.jpg",
           "techniqueType": "traditional"
         }
       ],
       "relatedDishes": [],
-      "imageSrc": "https://sisijemimah.com/wp-content/uploads/2016/05/image-1024x683.jpeg"
+      "imageSrc": "https://res.cloudinary.com/dlfezpyw8/image/upload/v1749580432/Victoria_Sponge_-_Celebration_Cake_-_Jane_s_q52wmu.jpg"
     },
     {
       "id": "easy-homemade-banana-bread-banana-cake",
@@ -606,12 +606,12 @@
           "id": "easy-homemade-banana-bread-banana-cake-standard-presentation",
           "name": "Standard Easy Homemade Banana Bread (Banana Cake) Presentation",
           "description": "Served as slices on a plate, can be accompanied by butter or a dollop of cream. A moist and soft bread made from mashed ripe bananas.",
-          "imageSrc": "https://sisijemimah.com/wp-content/uploads/2015/08/image_thumb60.png",
+          "imageSrc": "https://res.cloudinary.com/dlfezpyw8/image/upload/v1749580558/This_Banana_Bread_is_super_moist_soft_and_sweet_r6llgd.jpg",
           "techniqueType": "traditional"
         }
       ],
       "relatedDishes": [],
-      "imageSrc": "https://sisijemimah.com/wp-content/uploads/2015/08/image_thumb60.png"
+      "imageSrc": "https://res.cloudinary.com/dlfezpyw8/image/upload/v1749580556/99358cf2-5872-4333-af27-10534afbb7f1_zx0yjs.jpg"
     },
     {
       "id": "coconut-chocolate-chip-cookies",
@@ -636,12 +636,12 @@
           "id": "coconut-chocolate-chip-cookies-standard-presentation",
           "name": "Standard Coconut Chocolate Chip Cookies Presentation",
           "description": "Stacked on a plate or arranged in a cookie jar. These cookies combine the flavors of coconut and chocolate chips.",
-          "imageSrc": "https://sisijemimah.com/wp-content/uploads/2020/05/Coconut-chocolate-chip-cookies-720x540.jpg",
+          "imageSrc": "https://res.cloudinary.com/dlfezpyw8/image/upload/v1749580721/Best_Coconut_Chocolate_Chip_Oatmeal_Cookies_w7jnqs.jpg",
           "techniqueType": "traditional"
         }
       ],
       "relatedDishes": [],
-      "imageSrc": "https://sisijemimah.com/wp-content/uploads/2020/05/Coconut-chocolate-chip-cookies-720x540.jpg"
+      "imageSrc": "https://res.cloudinary.com/dlfezpyw8/image/upload/v1749580724/Brown_Butter_Coconut_Chocolate_Chip_Cookies_mculmp.jpg"
     }
   ]
 }
